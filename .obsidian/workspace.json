@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aethel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Aethel"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aethel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Aethel"
             }
           },
           {
@@ -193,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ee5a2856433b302",
+  "active": "5564154b2d6afe69",
   "lastOpenFiles": [
     "NOTAS SOLTAS/Deuses Neutros.md",
     "NOTAS SOLTAS/Brann.md",
