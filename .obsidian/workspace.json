@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS SOLTAS/Deuses Maus.md",
+                "file": "NOTAS SOLTAS/Deuses Neutros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deuses Maus"
+              "title": "Deuses Neutros"
             }
           }
         ]
@@ -195,13 +195,14 @@
   },
   "active": "4ee5a2856433b302",
   "lastOpenFiles": [
-    "aethelwiki/Bem-vindo.md",
-    "NOTAS SOLTAS/Deuses Maus.md",
+    "NOTAS SOLTAS/Deuses Neutros.md",
+    "NOTAS SOLTAS/Brann.md",
     "NOTAS SOLTAS/deuses.md",
     "Aethel.md",
+    "NOTAS SOLTAS/Deuses Maus.md",
+    "aethelwiki/Bem-vindo.md",
     "NOTAS SOLTAS/entidades.md",
     "README.md",
-    "NOTAS SOLTAS/Deuses Neutros.md",
     "NOTAS SOLTAS/Faenor.md",
     "NOTAS PRINCIPAIS/Virtus.md",
     "aethelwiki",
@@ -211,7 +212,6 @@
     "IMAGENS/Tharok.png",
     "Tharok.png",
     "NOTAS SOLTAS/Aegis.md",
-    "NOTAS SOLTAS/Brann.md",
     "NOTAS SOLTAS/Os Deuses Esquecidos.md",
     "NOTAS PRINCIPAIS/Kard.md",
     "NOTAS PRINCIPAIS/Yasuri.md",
