@@ -168,13 +168,13 @@ Isso não significa desconfiar de todos. Significa compreender que nenhuma defes
 
 Os templos de Aegis dividem responsabilidades entre vários guardiões, alteram rotas de patrulha e mantêm registros independentes. Nenhum sacerdote deve possuir sozinho todas as chaves de um santuário.
 
-Xelra procura o fio capaz de controlar toda a teia.
+[[Xelra]] procura o fio capaz de controlar toda a teia.
 
 Aegis garante que esse fio não exista.
 
 ### As mentiras de Vael
 
-Vael ameaça Aegis por meio de informações falsas.
+[[Vael]] ameaça Aegis por meio de informações falsas.
 
 Alarmes fabricados, inimigos inexistentes, ordens falsificadas e relatos contraditórios podem fazer uma fortaleza destruir a si mesma sem que nenhum invasor precise atravessar seus portões.
 
@@ -182,19 +182,19 @@ Aegis ensina que um aviso deve ser levado a sério, mas também verificado.
 
 Seus seguidores utilizam sinais combinados, testemunhas diferentes e métodos redundantes de comunicação. Quando dois relatos entram em conflito, eles não escolhem imediatamente aquele que preferem. Procuram aquilo que pode ser confirmado.
 
-Vael transforma confiança em engano.
+[[Vael]] transforma confiança em engano.
 
 Aegis transforma observação em certeza.
 
 ### Os segredos de Noctis
 
-Noctis representa tudo aquilo que se esconde da luz. Ele não precisa atravessar uma muralha quando pode cobrir a passagem com escuridão suficiente para que ninguém a perceba.
+[[Noctis]] representa tudo aquilo que se esconde da luz. Ele não precisa atravessar uma muralha quando pode cobrir a passagem com escuridão suficiente para que ninguém a perceba.
 
 A rivalidade entre os dois é antiga.
 
 Aegis não acredita que todo segredo seja maligno. Algumas coisas precisam permanecer ocultas para proteger pessoas, conhecimentos ou lugares. O que ele rejeita é a escuridão utilizada para esconder uma ameaça em movimento.
 
-Noctis preserva o que não deve ser visto.
+[[Noctis]] preserva o que não deve ser visto.
 
 Aegis procura aquilo que não deveria estar ali.
 
@@ -248,6 +248,8 @@ O escudo representa a responsabilidade de colocar-se entre a ameaça e aquilo qu
 
 ### Frase sagrada
 
-“Enquanto alguém vigia, o mundo pode dormir.”exões:** Serve como os "olhos" de **[[Nêmesis]]**. Está em constante alerta contra as infiltrações de **[[Xelra]]**, **[[Vael]]** e **[[Noctis]]**.
+“Enquanto alguém vigia, o mundo pode dormir.” 
+
+![[Aegis.png]]
 
 #deuses
