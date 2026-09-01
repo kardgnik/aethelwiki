@@ -82,9 +82,7 @@ Aegis reconhece que proteção e aprisionamento podem utilizar as mesmas ferrame
 
 Por isso ele não abençoa toda muralha apenas por existir. Para que algo pertença verdadeiramente ao seu domínio, deve haver uma ameaça real, uma responsabilidade assumida e alguém disposto a permanecer diante do perigo.
 
-Aegis não protege a posse.
-
-Ele protege aquilo que foi confiado a alguém.
+Aegis não protege a posse. Ele protege aquilo que foi confiado a alguém.
 
 Quem assume uma vigília em seu nome aceita responder pelo que acontecer durante ela. Dormir no posto, ignorar sinais ou abandonar aqueles que estavam sob sua proteção são considerados pecados graves entre seus seguidores.
 
@@ -100,7 +98,7 @@ O primeiro ataca tudo o que se aproxima. O segundo não percebe quando deveria a
 
 Aegis ensina seus fiéis a manterem a mente imóvel diante da incerteza. Eles devem reconhecer o medo sem permitir que ele governe seus sentidos. Devem desconfiar sem condenar, preparar-se sem provocar e observar sem se tornar obcecados.
 
-Por isso Aegis jamais poderia servir aos propósitos de Zarok. A tirania utiliza o medo para convencer as pessoas de que todo vizinho é um inimigo e toda liberdade representa uma ameaça. Aegis considera esse estado uma forma de cegueira.
+Por isso Aegis jamais poderia servir aos propósitos de [[Zarok]]. A tirania utiliza o medo para convencer as pessoas de que todo vizinho é um inimigo e toda liberdade representa uma ameaça. Aegis considera esse estado uma forma de cegueira.
 
 Quem teme tudo não vigia nada.
 
@@ -108,25 +106,23 @@ Quem teme tudo não vigia nada.
 
 Os sacerdotes de Aegis resumem sua doutrina em três responsabilidades.
 
-**Observar.**
+**Observar:**
 
 O sentinela deve perceber o mundo como ele realmente é, não como deseja que seja. Suposições, preconceitos e distrações criam brechas antes mesmo que uma muralha seja atacada.
 
-**Alertar.**
+**Alertar:**
 
 Perceber o perigo e permanecer em silêncio é abandonar o posto. O vigia não precisa enfrentar sozinho tudo o que encontra. Sua primeira obrigação é garantir que outros saibam o que está acontecendo.
 
-**Resistir.**
+**Resistir:**
 
 Quando o aviso não é suficiente, o sentinela deve permanecer. Sua função não é necessariamente vencer, mas conquistar tempo para que aqueles sob sua proteção possam preparar-se, fugir ou reagir.
 
 Um guarda que morre sem alertar ninguém fracassou, mesmo que tenha lutado com coragem.
 
-Um guarda que recua após garantir a segurança de todos pode ter cumprido perfeitamente seu dever.
-
 ### Aegis e Nêmesis
 
-Aegis serve como os olhos de Nêmesis, mas não como seu carrasco.
+Aegis serve como os olhos de [[Nêmesis]], mas não como seu carrasco.
 
 Ele observa aquilo que os culpados tentam esconder, encontra passagens utilizadas para escapar do julgamento e percebe ameaças antes que consigam alcançar a deusa.
 
