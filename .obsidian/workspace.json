@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c330349690872c0",
+            "id": "4ee5a2856433b302",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -96,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aethel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Aethel"
             }
           },
           {
@@ -114,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aethel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Aethel"
             }
           },
           {
@@ -162,7 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Aethel"
             }
           },
           {
@@ -195,21 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c330349690872c0",
+  "active": "4ee5a2856433b302",
   "lastOpenFiles": [
-    "NOTAS SOLTAS/Aegis.md",
-    "gitignore",
-    "NOTAS SOLTAS/Deuses Neutros.md",
-    "NOTAS SOLTAS/Brann.md",
-    "NOTAS SOLTAS/Faenor.md",
     "NOTAS SOLTAS/deuses.md",
     "Aethel.md",
-    "conflict-files-obsidian-git.md",
-    "Brann.png",
-    "IMAGENS/Brann.png",
-    "NOTAS SOLTAS/Nêmesis.md",
-    "NOTAS PRINCIPAIS/Virtus.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "IMAGENS/Brann.png",
+    "NOTAS SOLTAS/Deuses Neutros.md",
+    "NOTAS SOLTAS/Brann.md",
+    "NOTAS SOLTAS/Deuses Maus.md",
+    "aethelwiki/Bem-vindo.md",
+    "NOTAS SOLTAS/entidades.md",
+    "NOTAS SOLTAS/Faenor.md",
+    "NOTAS PRINCIPAIS/Virtus.md",
     "aethelwiki",
     "NOTAS SOLTAS/Ted.md",
     "Changelog.md",
@@ -223,17 +222,17 @@
     "NOTAS SOLTAS/Elaria.md",
     "NOTAS SOLTAS/Nekhar.md",
     "NOTAS SOLTAS/Amanthor.md",
-    "NOTAS SOLTAS/Deuses Maus.md",
     "NOTAS SOLTAS/Deuses Bons.md",
     "NOTAS SOLTAS/Ilyana.md",
+    "NOTAS SOLTAS/Nêmesis.md",
     "IMAGENS/Eldir.png",
     "IMAGENS/Elaria.png",
     "IMAGENS/Moros.png",
     "NOTAS SOLTAS/Eldir.md",
     "Eldir.png",
     "NOTAS SOLTAS/Raphlue.md",
-    "NOTAS SOLTAS/GRUPO 03 - BRASAS.md",
     "Moros.png",
+    "IMAGENS/Pasted image 20260601034514.png",
     "Sem título.canvas",
     "MINHA MÃE ME ENVENENOU POR AMOR.mp3",
     "PJ",
