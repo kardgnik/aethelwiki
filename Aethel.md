@@ -28,4 +28,3 @@ Fora desse plano existem vários lugares, infinitos até, mas os principais são
  - [[deuses]]
  - [[entidades]]
 ----
-kard
