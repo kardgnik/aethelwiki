@@ -126,25 +126,25 @@ Aegis serve como os olhos de [[Nêmesis]], mas não como seu carrasco.
 
 Ele observa aquilo que os culpados tentam esconder, encontra passagens utilizadas para escapar do julgamento e percebe ameaças antes que consigam alcançar a deusa.
 
-Nêmesis confia em sua visão porque Aegis não altera aquilo que presencia. Ele não acrescenta intenção, não remove contexto e não permite que simpatia ou repulsa transformem observação em acusação.
+[[Nêmesis]] confia em sua visão porque Aegis não altera aquilo que presencia. Ele não acrescenta intenção, não remove contexto e não permite que simpatia ou repulsa transformem observação em acusação.
 
 Aegis mostra.
 
-Nêmesis decide.
+[[Nêmesis]] decide.
 
-Muitos tribunais dedicados a Nêmesis mantêm uma pequena imagem de Aegis acima de suas entradas. Ela representa a promessa de que nenhuma pessoa entrará armada, nenhuma testemunha será ameaçada e nenhuma influência externa alcançará o julgamento sem ser percebida.
+Muitos tribunais dedicados a [[Nêmesis]] mantêm uma pequena imagem de Aegis acima de suas entradas. Ela representa a promessa de que nenhuma pessoa entrará armada, nenhuma testemunha será ameaçada e nenhuma influência externa alcançará o julgamento sem ser percebida.
 
 ### Aegis e Kaelen
 
-Aegis e Kaelen são frequentemente confundidos por mortais, pois ambos são associados a juramentos, guardas e dever.
+Aegis e [[Kaelen]] são frequentemente confundidos por mortais, pois ambos são associados a juramentos, guardas e dever.
 
-Kaelen representa a lealdade daquele que escolhe uma causa e permanece fiel a ela.
+[[Kaelen]] representa a lealdade daquele que escolhe uma causa e permanece fiel a ela.
 
 Aegis representa a responsabilidade daquele que recebe algo para proteger e não desvia sua atenção.
 
-Um cavaleiro pode seguir Kaelen até uma batalha distante por fidelidade ao seu soberano. O sentinela de Aegis permanecerá diante do portão porque sua ausência deixaria outras pessoas vulneráveis.
+Um cavaleiro pode seguir [[Kaelen]] até uma batalha distante por fidelidade ao seu soberano. O sentinela de Aegis permanecerá diante do portão porque sua ausência deixaria outras pessoas vulneráveis.
 
-Kaelen pergunta:
+[[Kaelen]] pergunta:
 
 “Por quem você luta?”
 
@@ -156,13 +156,13 @@ Os dois se respeitam profundamente. Ainda assim, seus seguidores discutem com fr
 
 ### As infiltrações de Xelra
 
-Xelra raramente tenta destruir uma muralha.
+[[Xelra]] raramente tenta destruir uma muralha.
 
 Ela prefere convencer alguém a abrir o portão.
 
 Suas teias atravessam amizades, alianças, famílias e instituições. Quando um sentinela percebe que foi cercado, todas as pessoas em quem confiava já podem pertencer à mesma trama.
 
-Aegis combate Xelra ensinando seus seguidores a observar relações, comportamentos e mudanças sutis, não apenas portas e janelas.
+Aegis combate [[Xelra]] ensinando seus seguidores a observar relações, comportamentos e mudanças sutis, não apenas portas e janelas.
 
 Isso não significa desconfiar de todos. Significa compreender que nenhuma defesa permanece segura quando depende de uma única pessoa, senha ou juramento.
 
