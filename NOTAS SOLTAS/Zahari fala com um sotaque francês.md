@@ -1,0 +1,27 @@
+- **Meu querido / Minha querida**
+    - Masculino: **Mon chéri** _(Môn xê-rí)_
+    - Feminino: **Ma chérie** _(Ma xê-rí)_
+- **Meu amor**
+    - Masculino/Feminino: **Mon amour** _(Môn a-múr)_
+- **Meu coração** (equivalente a "meu bem")
+    - Masculino/Feminino: **Mon cœur** _(Môn kêr)_
+- **Meu anjo**
+    - Masculino/Feminino: **Mon ange** _(Môn ãnj)_
+- **Meu lindo / Minha linda**
+    - Masculino: **Mon beau** _(Môn bô)_ ou **Mon joly** _(Môn jô-lí)_
+    - Feminino: **Ma belle** _(Ma bél)_
+- **Minha fofa / Meu fofo**
+    - Masculino: **Mon chou** _(Môn xú)_
+    - Feminino: **Ma choute** _(Ma xút)_
+
+- **Senhorita** (Mulher jovem / não casada)
+    - **Mademoiselle** _(Mad-mua-zél)_
+- **Senhora** (Mulher casada / adulta)
+    - **Madame** _(Ma-dám)_
+- **Senhor** (Homem adulto)
+    - **Monsieur** _(Mê-sîê)_
+
+- Com a contração Meu
+	- **Ma mademoiselle** _(Ma mad-mua-zél)_ — Minha senhorita
+	- **Ma madame** _(Ma ma-dám)_ — Minha senhora
+	- **Mon monsieur** _(Môn mê-sîê)_ — Meu senhor

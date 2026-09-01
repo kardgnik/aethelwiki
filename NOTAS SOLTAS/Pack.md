@@ -1,0 +1,1 @@
+Espirito ancião de gelo, que por vezes assume o formato de um gato branco, responsável pela tragédia do ano [[2782 A.G]]

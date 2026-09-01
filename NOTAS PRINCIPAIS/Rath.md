@@ -1,0 +1,1 @@
+É o deus ancestral e criador de todos os dragões no universo. Considerado o deus do equilíbrio, da paz e de toda a criação, ele transcende os alinhamentos morais e é reverenciado como o pai de divindades dracônicas famosas, como [[Aurelion]] e [[Vithar]] e [[Stecs]].

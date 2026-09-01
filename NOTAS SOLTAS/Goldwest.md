@@ -1,0 +1,1 @@
+bairro de [[Gold City]]

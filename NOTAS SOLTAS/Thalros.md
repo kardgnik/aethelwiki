@@ -1,0 +1,13 @@
+Thalen Morvai, Voz da Fonte Silente, é um goliath marcado não apenas pela força de seu povo, mas por uma ligação profunda e quase espiritual com as águas da natureza. Nascido em uma região remota, próxima a uma fonte sagrada que sustentava toda a vida ao redor, Thalen viveu grande parte de sua vida como eremita, incumbido — por tradição ou escolha — de proteger aquele lugar. A fonte era mais do que um recurso: era um símbolo de equilíbrio, abundância e conexão com forças maiores.
+
+![[WhatsApp Image 2026-04-17 at 14.45.33.jpeg]]
+
+Com o tempo, porém, algo mudou. A água começou a diminuir, os animais desapareceram e a terra perdeu sua vitalidade. A tribo, diante da escassez crescente, foi forçada a abandonar o local. Thalen permaneceu. Até o fim. Tentou de tudo — rituais, cuidados, escavações, preces silenciosas — mas a fonte acabou secando completamente. Sem respostas e carregando o peso de ter falhado em seu dever, ele partiu, sendo o último a deixar o lugar.
+
+Hoje, Thalen vaga pelo mundo em busca de respostas. Ele acredita que a água não simplesmente desaparece — ela foi desviada, corrompida ou tomada por algo. Embora mantenha uma postura calma, quase serena, com uma filosofia de respeito aos ciclos naturais, essa leveza esconde uma culpa profunda. Ele se vê como responsável pelo que aconteceu, mesmo sem saber se realmente foi.
+
+Fisicamente, Thalen impõe presença. Alto e robusto, com pele de tom acinzentado marcada por padrões naturais que lembram rachaduras ou veios de água, ele carrega sinais de desgaste incomuns para sua idade. Seus cabelos longos e barba espessa — já grisalhos, tocando o tórax — parecem ter sido afetados pela própria tragédia que viveu, como se o tempo tivesse passado mais rápido sobre ele. Seus olhos, de um azul acinzentado profundo, carregam uma melancolia constante, como água parada antes da tempestade.
+
+Seu cajado, feito de madeira retorcida, é tanto ferramenta quanto relíquia. No topo, uma pedra retirada da fonte está presa de forma orgânica, como se a madeira a tivesse abraçado. Amarrado a ele, um pequeno frasco contém as últimas águas do local. Thalen usa essa água com extremo cuidado — às vezes em rituais, às vezes em curas — acreditando que sua essência ainda pode purificar e talvez até restaurar outras águas. Mas ele não sabe se isso é verdade… ou apenas esperança.
+
+Como druida do Círculo do Mar, seus poderes se manifestam como uma extensão emocional e espiritual de sua história. A água e a tempestade respondem a ele, ainda que nem sempre de forma suave. Em combate, sua aparente calma dá lugar a uma força controlada, como o mar antes de uma onda violenta. Fora dele, é um curandeiro, um observador e alguém que busca restaurar o fluxo natural das coisas.
