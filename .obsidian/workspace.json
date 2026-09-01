@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS SOLTAS/Deuses Neutros.md",
+                "file": "Aethel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deuses Neutros"
+              "title": "Aethel"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "4ee5a2856433b302",
   "lastOpenFiles": [
-    "NOTAS SOLTAS/Faenor.md",
     "NOTAS SOLTAS/Deuses Neutros.md",
+    "NOTAS SOLTAS/Faenor.md",
     "NOTAS SOLTAS/deuses.md",
     "Aethel.md",
     "NOTAS PRINCIPAIS/Virtus.md",
