@@ -187,5 +187,9 @@ Vaelyra acredita que não.
 
 Talvez essa seja a primeira convicção verdadeiramente sua.
 
+![[Vaelyra Noctharis.png]]
+
+#personagem
+
 
 
