@@ -13,7 +13,7 @@ Minha família me ofereceu professores pouco convencionais. [Elthra Noctharis](E
 
 Mesmo assim, minha verdadeira aptidão nunca esteve nas ferramentas. Estava nas palavras.
 
-Desde jovem, cultivei o hábito de observar antes de falar e, quando falava, fazê-lo apenas se houvesse algo que valesse a pena ser ouvido. Não era cruel por impulso. Era pior, para muita gente. Era precisa. Enquanto outros aprendiam a lisonjear adultos importantes e baixar os olhos diante de figuras influentes, descobri que poucas coisas desconcertavam tanto quanto uma verdade pronunciada sem tremor na voz.
+Desde jovem, cultivei o hábito de observar antes de falar e, quando falava, fazê-lo apenas se houvesse algo que valesse a pena ser ouvido. Não era cruel por impulso. Era precisa. Enquanto outros aprendiam a lisonjear adultos importantes e baixar os olhos diante de figuras influentes, descobri que poucas coisas desconcertavam tanto quanto uma verdade pronunciada sem tremor na voz.
 
 Não rejeito mentiras por uma devoção ingênua à virtude. Mentiras mal construídas me irritam. Mentiras socialmente aceitas, repetidas apenas para poupar desconforto, me aborrecem. Há algo ofensivo em obrigar todos numa sala a participar da mesma falsidade e ainda chamar aquilo de educação.
 
