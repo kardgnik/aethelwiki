@@ -93,7 +93,15 @@ O que parecia uma biblioteca importante escondia algo incomparavelmente maior.
 
 Acima de um teto invisível havia livros, passagens e um anfitrião baixo, careca e aparentemente inofensivo, capaz de surgir atrás de um balcão como se a própria biblioteca o tivesse colocado ali. Além dele existia um espaço vasto demais para caber dentro da construção, ocupado por leitores silenciosos vestidos com simplicidade, embora tudo neles revelasse uma qualidade impossível de ignorar.
 
-O anfitrião não entregava respostas gratuitamente. Pediu a Vaelyra uma bola de neve comum, não mágica, um objeto simples que se tornou especialmente inconveniente de encontrar longe das terras geladas. Ela conseguiu uma com [[Bau]], retirada de um estranho congelador, e correu para levá-la de volta antes que derretesse.
+O anfitrião não entregava respostas gratuitamente. Me pediu uma bola de neve comum, não mágica, um objeto simples que se tornou especialmente inconveniente de encontrar longe das terras geladas.
+
+A procura acabou conduzindo Vaelyra novamente à padaria de [[Bau]]. Apesar do ofício aparentemente comum, Bau não era apenas um padeiro. Era também um alquimista extraordinário, capaz de transformar massas, temperos e ingredientes improváveis em misturas mágicas e explosivos perigosamente eficientes. Filho de [[Ming]], uma velha alquimista e comerciante de poções conhecida por seus muitos descendentes espalhados pelo mundo, Bau parecia ter herdado o talento da família para fazer o extraordinário parecer parte de uma rotina perfeitamente normal.
+
+Foi naquela padaria que Vaelyra conheceu [[Zaram]], um druida que logo passou a acompanhar o grupo. Sua verdadeira capacidade ficou evidente quando Bau contratou os aventureiros para eliminar cinco Carrion Crawlers e recuperar seus tentáculos, oferecendo noventa peças de ouro por cada um que conseguissem trazer de volta.
+
+Durante o combate, Zaram transformou o terreno ao redor das criaturas em uma armadilha viva. Raízes irromperam do solo e se espalharam pelo caminho dos monstros, ferindo-os sempre que tentavam avançar. Quando o confronto terminou, os cinco estavam mortos e o grupo havia recolhido quarenta tentáculos. Bau cumpriu o acordo e pagou três mil e seiscentas peças de ouro pelo material.
+
+Depois da caçada, foi o próprio Bau quem forneceu a Vaelyra a improvável bola de neve comum, retirada de um estranho congelador mantido em sua padaria. Ela correu para levá-la de volta ao anfitrião antes que derretesse.
 
 Nesse período, o grupo também encontrou e matou um assassino ligado à Ordem das Perspectivas. Entre venenos, documentos, pseudônimos e um colar com uma gema verde, Vaelyra percebeu que as conspirações ao redor deles eram mais antigas do que as desavenças que haviam começado no navio. O Pingente da Verdade não era apenas um objeto cobiçado. Era uma peça dentro de algo que atravessava organizações, deuses e vestígios das Guerras Primordiais.
 
