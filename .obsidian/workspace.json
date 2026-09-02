@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pingen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +212,13 @@
   },
   "active": "cb6706fe99aac868",
   "lastOpenFiles": [
+    "NOTAS SOLTAS/Deuses Neutros.md",
+    "NOTAS SOLTAS/Tharok.md",
+    "NOTAS SOLTAS/deuses.md",
+    "Aethel.md",
+    "PJ/Vaelyra Noctharis.md",
     "NOTAS SOLTAS/GRUPO 01 - CRONICAS.md",
     "NOTAS SOLTAS/Ming.md",
-    "PJ/Vaelyra Noctharis.md",
-    "Aethel.md",
-    "NOTAS SOLTAS/deuses.md",
-    "NOTAS SOLTAS/Deuses Neutros.md",
     "NOTAS SOLTAS/Faenor.md",
     "NOTAS SOLTAS/Deuses Bons.md",
     "NOTAS SOLTAS/Ilyana.md",
@@ -246,7 +246,6 @@
     "NOTAS PRINCIPAIS/Stecs.md",
     "NOTAS SOLTAS/Elaria.md",
     "NOTAS SOLTAS/Nekhar.md",
-    "NOTAS SOLTAS/Amanthor.md",
     "IMAGENS/Eldir.png",
     "IMAGENS/Elaria.png",
     "IMAGENS/Moros.png",
