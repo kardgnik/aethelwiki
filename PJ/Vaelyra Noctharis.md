@@ -95,7 +95,9 @@ Acima de um teto invisível havia livros, passagens e um anfitrião baixo, carec
 
 O anfitrião não entregava respostas gratuitamente. Pediu-me uma bola de neve comum, não mágica, um objeto simples que se tornou especialmente inconveniente de encontrar longe das terras geladas.
 
-A procura acabou me conduzindo novamente à padaria de [Bau](Bau.md). Apesar do ofício aparentemente comum, Bau não era apenas um padeiro. Era também um alquimista extraordinário, capaz de transformar massas, temperos e ingredientes improváveis em misturas mágicas e explosivos perigosamente eficientes. Filho de [Ming](Ming), uma velha alquimista e comerciante de poções conhecida por seus muitos descendentes espalhados pelo mundo, Bau era mais uma prova de que aquela família possuía relações incomuns com a magia e a alquimia.
+Nesse período, também encontramos e matamos um assassino ligado à Ordem das Perspectivas. Entre venenos, documentos, pseudônimos e um colar com uma gema verde, percebi que as conspirações ao nosso redor eram mais antigas do que as desavenças que haviam começado no navio. Passei a suspeitar que o Pingente da Verdade não era apenas mais um objeto cobiçado. Havia interesses demais convergindo sobre ele para que sua importância terminasse na capacidade de invocar um antigo espírito de gelo.
+
+A procura pela bola de neve acabou me conduzindo novamente à padaria de [Bau](Bau.md). Apesar do ofício aparentemente comum, Bau não era apenas um padeiro. Era também um alquimista extraordinário, capaz de transformar massas, temperos e ingredientes improváveis em misturas mágicas e explosivos perigosamente eficientes. Filho de [Ming](Ming), uma velha alquimista e comerciante de poções conhecida por seus muitos descendentes espalhados pelo mundo, Bau era mais uma prova de que aquela família possuía relações incomuns com a magia e a alquimia.
 
 Foi naquela padaria que conheci [Zaram](Zaram), um druida que logo passou a acompanhar o grupo. Sua verdadeira capacidade ficou evidente quando Bau nos contratou para eliminar cinco Carrion Crawlers e recuperar seus tentáculos, oferecendo noventa peças de ouro por cada um que conseguíssemos trazer de volta.
 
