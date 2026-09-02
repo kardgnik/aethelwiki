@@ -6,26 +6,26 @@ Ganhou uma aposta de [[Ted]] Tyr (cara coroa) vendeu a antitoxina por 80 quando 
 
 Os 17 filhos de Ming:
 
-1. Liang, o primogênito, sério demais, administra contas e sempre acha que a mãe vende barato.
-2. Meilin, herborista talentosa, conhece venenos melhor do que admite.
-3. Bao, padeiro, faz pãezinhos medicinais que curam ressaca e tristeza leve.
-4. Jun, ex-aventureiro, perdeu um dedo para um mímico e jura que foi “estratégia”.
-5. Lian, costureira, borda bolsos secretos em mantos de magos e ladinos.
-6. Shen, marinheiro, vive trazendo ingredientes estranhos de portos distantes.
-7. Yue, cartomante, sempre prevê tragédias pequenas, como chuva, azia e casamento ruim.
-8. Tao, guarda da cidade, tenta fingir que não compra poções fiado da própria mãe.
-9. Fen, alquimista explosiva, banida de três guildas e muito orgulhosa disso.
-10. Lin, sacerdote gentil, especializado em bênçãos domésticas e funerais baratos.
-11. Huan, músico de taverna, compôs uma canção chamada “Minha Mãe Me Envenenou Por Amor”.
-12. Suyin, mercadora ambulante, vende “poções da Ming” falsificadas com autorização da própria Ming.
-13. Ren, pescador, afirma que peixes têm alma e que alguns são péssimas pessoas.
-14. Xia, aprendiz de necromancia, mas “só para fins acadêmicos”, segundo ela.
-15. Bo, dono de uma casa de chá, fofoqueiro profissional e informante involuntário.
-16. Nari, caçadora de ervas raras, passa meses fora e volta com plantas que mordem.
-17. Min, a caçula, mimada por todos, aprendiz direta de Ming e provavelmente a mais perigosa da família.
+1. [[Liang]], o primogênito, sério demais, administra contas e sempre acha que a mãe vende barato.
+2. [[Meilin]], herborista talentosa, conhece venenos melhor do que admite.
+3. [[Bao]], padeiro, faz pãezinhos medicinais que curam ressaca e tristeza leve.
+4. [[Jun]], ex-aventureiro, perdeu um dedo para um mímico e jura que foi “estratégia”.
+5. [[Lian]], costureira, borda bolsos secretos em mantos de magos e ladinos.
+6. [[Shen]], marinheiro, vive trazendo ingredientes estranhos de portos distantes.
+7. [[Yue]], cartomante, sempre prevê tragédias pequenas, como chuva, azia e casamento ruim.
+8. [[Tao]], guarda da cidade, tenta fingir que não compra poções fiado da própria mãe.
+9. [[Fen]], alquimista explosiva, banida de três guildas e muito orgulhosa disso.
+10. [[Lin]], sacerdote gentil, especializado em bênçãos domésticas e funerais baratos.
+11. [[Huan]], músico de taverna, compôs uma canção chamada “Minha Mãe Me Envenenou Por Amor”.
+12. [[Suyin]], mercadora ambulante, vende “poções da Ming” falsificadas com autorização da própria Ming.
+13. [[Ren]], pescador, afirma que peixes têm alma e que alguns são péssimas pessoas.
+14. [[Xia]], aprendiz de necromancia, mas “só para fins acadêmicos”, segundo ela.
+15. [[Bo]], dono de uma casa de chá, fofoqueiro profissional e informante involuntário.
+16. [[Nari]], caçadora de ervas raras, passa meses fora e volta com plantas que mordem.
+17. [[Min]], a caçula, mimada por todos, aprendiz direta de Ming e provavelmente a mais perigosa da família.
 
 MINHA MÃE ME ENVENENOU POR AMOR
-Composta por Huan, filho de Ming, após sobreviver ao jantar de aniversário dos seus 23 anos.
+Composta por [[Huan]], filho de Ming, após sobreviver ao jantar de aniversário dos seus 23 anos.
 
 Verso 1
 Minha mãe tinha um sorriso  
