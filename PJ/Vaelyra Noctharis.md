@@ -101,9 +101,7 @@ Foi naquela padaria que conheci [Zaram](Zaram), um druida que logo passou a acom
 
 Durante o combate, Zaram transformou o terreno ao redor das criaturas em uma armadilha viva. Raízes irromperam do solo e se espalharam pelo caminho dos monstros, ferindo-os sempre que tentavam avançar. Quando o confronto terminou, os cinco estavam mortos e havíamos recolhido quarenta tentáculos. Bau cumpriu o acordo e nos pagou três mil e seiscentas peças de ouro pelo material.
 
-Depois da caçada, foi o próprio Bau quem me forneceu a improvável bola de neve comum, retirada de um estranho congelador mantido em sua padaria. Corri para levá-la de volta ao anfitrião antes que derretesse.
-
-Nesse período, também encontramos e matamos um assassino ligado à Ordem das Perspectivas. Entre venenos, documentos, pseudônimos e um colar com uma gema verde, percebi que as conspirações ao nosso redor eram mais antigas do que as desavenças que haviam começado no navio. Passei a suspeitar que o Pingente da Verdade não era apenas mais um objeto cobiçado. Havia interesses demais convergindo sobre ele para que sua importância terminasse na capacidade de invocar um antigo espírito de gelo.
+Depois da caçada, foi o próprio Bau quem me forneceu a improvável bola de neve comum, retirada de um estranho congelador mantido em sua padaria. Corri para levá-la de volta ao anfitrião antes que derretesse com ajuda de uma magia de Nyxen que manteve ela intacta até nos dois alcançarmos a biblioteca já quase fechando.
 
 Quando finalmente retornei com a bola de neve, o anfitrião revelou quem realmente era.
 
