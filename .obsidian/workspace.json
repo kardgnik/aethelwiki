@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tharivon Noctharis.md",
+                "file": "PJ/Vaelyra Noctharis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tharivon Noctharis"
+              "title": "Vaelyra Noctharis"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "be0b14dc0bcd7b03",
   "lastOpenFiles": [
-    "PJ/Vaelyra Noctharis.md",
     "Tharivon Noctharis.md",
+    "PJ/Vaelyra Noctharis.md",
     "Elthra Noctharis.md",
     "Aethel.md",
     "Zaram.md",
