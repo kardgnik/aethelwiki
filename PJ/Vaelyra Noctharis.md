@@ -208,7 +208,7 @@ Talvez essa seja a primeira convicção verdadeiramente minha.
 
 ![[Vaelyra Noctharis.png]]
 
-Raça: [[Shadar-Kai 1]]
+Raça: [[Shadar-Kai]]
 Classe: [[Bruxo]]
 
 #personagem
