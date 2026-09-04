@@ -10,7 +10,7 @@ O mundo de **Aethel** situa-se no **Plano Material**, o lar dos mortais, cercado
 Além do plano material existem dimensões e refúgios planares essenciais:
 - **[[Dimensão do Silencio]]**: Domínio da divindade ancestral **Noth**, o Avatar do Silêncio e da Escuridão.
 - **[[Biblioteca Sagrada]]**: Manifestação mágica infinita de todo o conhecimento acumulado pelas raças e eras, guardando diários sobre a ascensão e queda de civilizações e deuses.
-- **[[Taverna do Fim do Mundo]]**: Um ponto de encontro neutro e extracósmico situado nas fronteiras da realidade.
+- **[[Taverna do Fim do Mundo]]**: Ponto liminar situado na fronteira entre o Plano Material e o Plano dos Mortos, atendido por um auto-gnomo enferrujado. Centro de contratos para mercenários interplanares (divididos em rankings de renome) e refúgio onde almas tomam seu último drink antes de cruzar o Véu. Acessível no mundo mortal através do penhasco sobre o Rio Stras (com apenas 4 cm de água).
 - **O Véu**: A camada etérea e espiritual onde as almas dos que partiram transitam antes de seu julgamento, acessível por médiuns e bruxos como [[Natasha]].
 
 ---
