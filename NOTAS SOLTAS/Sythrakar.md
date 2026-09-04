@@ -15,8 +15,10 @@ Enquanto *Noctis* é o conceito cósmico amplo que governa os segredos enterrado
 
 ---
 
-### A Ligação com Vaelyra Noctharis
+### A Ligação com Vaelyra Noctharis 
 Sindrakar é a misteriosa voz e o patrono nas sombras de **[[Vaelyra Noctharis]]**:
-- Abordou a jovem ladina elfa nos salões decadentes de [[Gold City]], reconhecendo sua discrição, frieza e desprezo por reverências cegas.
+- Abordou a jovem Bruxa elfa nos salões decadentes de [[Gold City]], reconhecendo sua discrição, frieza e desprezo por reverências cegas.
 - Forneceu a ela os recursos e orientações para operar como espiã de elite, concedendo-lhe o pseudodragão negro **[[Vesper]]**.
 - **O Objetivo Principal:** Encarregou Vaelyra de vigiar e se infiltrar junto a [[Nyxen]] com um propósito claro: monitorar e recuperar o **[[Pingente da Verdade]]**, o artefato divino ancestral ligado a [[Kard]] que carrega o eco dos deuses antigos.
+
+![[Sythrakar.png]]
