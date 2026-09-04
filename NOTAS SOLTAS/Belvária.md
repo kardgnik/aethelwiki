@@ -11,12 +11,16 @@
 ### Visão Geral
 **Belvária** é uma das cidades mais prósperas, belas e politicamente estratégicas de todo o continente de [[Virtus]]. Erguida em um vale fértil cercado por colinas verdejantes e vinhedos entre os domínios do reino militarista de [[WoolRed]] e do império tecnocrata de [[Raphlue]], Belvária é um estado soberano e estritamente independente.
 
+![[Kard_Belvria_a_prosperous_city_known_as_the_City_of_Mirrors_a_0a6d1e7f-67da-4a65-a898-507d5b80fc59_1.png]]
+
 Conhecida como a *Cidade dos Espelhos e das Rosas*, é famosa por sua arquitetura monumental em mármore claro, praças arborizadas, academias artísticas e banquetes suntuosos que atraem mercadores de [[Gold City]] e emissários de todos os cantos do mundo.
 
 ---
 
 ### O Governo de Lordia
 A cidade é governada desde as Guerras Primordiais pela misteriosa e carismática Rainha [[Lordia]], veterana da lendária [[A Vanguarda|Vanguarda]]. 
+
+![[Kard_Belvria_city_street_view_narrow_cobblestone_streets_line_0658e618-ef62-4fb5-af60-f74f754ac4bf_0.png]]
 
 Embora WoolRed e Raphlue vivam em permanente atrito e cobiça territorial, nenhum dos dois reinos jamais conseguiu invadir ou subjugar Belvária. A diplomacia impecável de Lordia, aliada a alianças secretas, guarda de elite altamente treinada e uma teia de espionagem que sabe todos os segredos dos nobres dos reinos vizinhos, transformou a cidade em território inviolável.
 

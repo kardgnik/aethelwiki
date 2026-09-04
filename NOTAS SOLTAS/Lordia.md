@@ -11,6 +11,8 @@
 ### Visão Geral
 **Lordia** é uma das figuras mais fascinantes, enigmáticas e duradouras da história de Aethel. Veterana de guerra da lendária **[[A Vanguarda|Vanguarda]]**, ela combateu diretamente na linha de frente contra o **[[Conselho das Cinzas]]** ao lado dos maiores heróis mortais e divindades. 
 
+![[Kard_succubus_queen_in_disguise_appearing_as_a_sensual_human__d6973394-6dbf-446b-b2c2-b65cdb89cfeb_2.png]]
+
 Diferente de qualquer súcubo ordinária do abismo — que sucumbe à sede predatória e ao caos destrutivo —, Lordia é dotada de uma inteligência estratégica brilhante, autocontrole absoluto e uma profunda fascinação pela mortalidade e pelas artes do poder. Publicamente, ninguém em Aethel conhece sua verdadeira natureza infernal; aos olhos do mundo, ela é reverenciada como uma soberana de linhagem antiquíssima, abençoada com graça eterna, charme irresistível e sabedoria política ímpar.
 
 ---
