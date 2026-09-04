@@ -197,16 +197,13 @@ Talvez essa seja a primeira convicção verdadeiramente minha.
 
 **Meus primeiros quarenta anos** foram vividos em Gold City, entre os contratos privados redigidos por minha mãe, reuniões que terminavam quando eu entrava, salões onde o luxo servia para ocultar a sujeira e silêncios comprados por pessoas poderosas. Cresci observando acordos que jamais poderiam ser apresentados diante de um tribunal e aprendendo, muito antes de compreender todas as cláusulas, que quase tudo possuía um preço.
 
-**Dos quarenta aos oitenta e três anos**, recebi uma formação refinada no internato de Gold City. Ali estudei retórica, etiqueta, escrita persuasiva, Abissal e a magia contida nas palavras. Foi também onde desenvolvi a postura que alguns passaram a chamar de “Silverquill”: elegante sem ser dócil, magnética diante de uma plateia e precisa o bastante para transformar as próprias palavras de alguém na arma que o derrubaria.
+**Dos quarenta aos oitenta e três anos**, recebi uma formação refinada em um prestigiado internato de Deorum. Ali estudei retórica, etiqueta, escrita persuasiva, Abissal e a magia contida nas palavras. Foi também onde desenvolvi a postura que alguns passaram a chamar de “Silverquill”: elegante sem ser dócil, magnética diante de uma plateia e precisa o bastante para transformar as próprias palavras de alguém na arma que o derrubaria.
 
 **Aos oitenta e quatro anos**, expus publicamente um professor influente, protegido por prestígio, dinheiro e favores acumulados durante décadas. Ele caiu, mas a instituição escolheu me punir por revelar aquilo que preferia manter oculto. Naquela mesma noite, encontrei na biblioteca o livro sem título. Quando suas páginas vazias me perguntaram, em Abissal, se eu desejava continuar falando a verdade mesmo depois de conhecer seu preço, respondi que sim. Foi assim que aceitei o pacto com [[Sythrakar]]
 
 **Dos oitenta e cinco aos cento e trinta e seis anos**, viajei por cidades, cortes e salões nos quais todos tinham alguma coisa a esconder. Trabalhei como negociadora, conselheira informal, investigadora de verdades inconvenientes e, quando as circunstâncias exigiam, chantagista. Tornei-me uma presença bem-vinda enquanto minhas palavras serviam aos interesses de alguém e profundamente indesejada no instante em que começavam a revelar demais.
 
 **Aos cento e trinta e sete anos**, o rastro do Pingente da Verdade me conduziu até um grupo de viajantes observado durante dias sob a forma de corvo. Quando abandonei as penas e pousei diante deles como realmente era, teve início a jornada que me trouxe até aqui.
-
-Só há uma inconsistência importante: no texto atual, Vaelyra deixa Gold City para estudar em **Deorum**, enquanto essa nova cronologia diz que o internato ficava em **Gold City**. Eu, pessoalmente, manteria Deorum, porque a mudança do calor de Abutrak para o extremo gelado de Solsis enriquece muito a trajetória dela. Nesse caso, bastaria trocar “no internato de Gold City” por “em um prestigiado internato de Deorum”.
-
 
 
 ![[Vaelyra Noctharis.png]]
