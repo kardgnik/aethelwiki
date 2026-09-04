@@ -21,6 +21,7 @@ Na divisão dos dez campeões da Vanguarda, Chris foi catalogado entre *Os Menor
 
 ---
 
-### O Sacrifício
+### O Sacrifício (Ano [[1 A.G.]])
 Como rezam os anais das eras sombrias: *"Apenas aqueles que fazem sacrifícios maiores encontram lugares mais altos."* 
-Durante a batalha final pela queda do Conselho das Cinzas, Chris colocou sua própria vida na linha de fogo para que Yasuri pudesse desferir o golpe decisivo contra os líderes da tirania mágica. Seu sacrifício heróico foi um dos combustíveis espirituais que impulsionaram a alma de Yasuri a romper os limites mortais e ascender como o conceito divino do *Caminho*.
+
+Durante a **Batalha dos Picos Quebrados** no ano **[[1 A.G.]]** (veja [[Antes das Guerras#1 A.G. — A Batalha dos Picos Quebrados: Kaelen e o Sacrifício de Chris|1 A.G.]]), enquanto Yasuri duelava contra o comandante [[Morice]] e as legiões das Cinzas, o general sombrio Xanthos disparou uma lâmina envenenada no ponto cego de Yasuri. Chris saltou no ar e interceptou o golpe no próprio peito. Suas últimas palavras — *"Seu caminho é livre, meu amigo... corte o destino"* — foram o combustível espiritual que levou [[Yasuri]] a transcender a matéria e alcançar o estado absoluto d'[[A Lâmina Viva|A Lâmina Viva / O Caminho]].

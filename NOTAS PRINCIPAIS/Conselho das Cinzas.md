@@ -84,6 +84,19 @@ O círculo interno inalcançável. Por razões de sigilo absoluto e misticismo s
 
 ---
 
+## As Guerras Primordiais e os Generais Caídos
+
+Durante a fase culminante das [[Antes das Guerras|Guerras Primordiais]] (de [[6 A.G.]] ao [[Ano 0]]), o Conselho das Cinzas travou duelos titânicos contra a [[Vanguarda]] e os heróis mortais que viriam a se tornar os Deuses Ascendidos. Nesse conflito devastador, vários senhores de guerra originais do Conselho tombaram ano após ano, moldando a ascensão dos deuses e a retração da ordem para as trevas:
+- **[[6 A.G.]]**: **Malgazar, o Quebrador de Mundos** — Fatiado por [[Stecs]] e empalado pelo martelo de [[Brann]] sob a estratégia militar de [[Tharok]].
+- **[[5 A.G.]]**: **Vaelokis, o Ceifador de Almas** — Calcinado pela magia pura da Verdade de [[Kard]], viabilizada pela espionagem de [[Lordia]] e pela contramagia de [[Pato]] e [[Polar]].
+- **[[4 A.G.]]**: **Gorgoroth, a Garra Negra** — Esmagado e decapitado por [[Stecs]] após o escudeiro [[Zanzs]] receber o golpe mortal em seu lugar na brecha da muralha defendida por [[Aegis]].
+- **[[3 A.G.]]**: **Khorvath, o Devorador de Éter** — Pulverizado pela irrupção de luz divina durante o martírio supremo de [[Baelor]].
+- **[[2 A.G.]]**: **Zul'Theron, o Vazio** — Destruído por [[Kard]] após os jovens escudeiros [[Pato]] e [[Polar]] darem suas vidas para conter a maldição de alma em seus próprios corpos.
+- **[[1 A.G.]]**: **Xanthos, o Arauto da Noite** — Decapitado pela *Lâmina Viva* de [[Yasuri]] após o sacrifício de [[Chris]], enquanto [[Kaelen]] sustentava o desfiladeiro até o último suspiro.
+- **[[Ano 0]]**: **Balgorath, o Senhor das Chamas Negras** — Aniquilado no choque final por [[Nêmesis]], Stecs e Yasuri. O [[Conselho das Cinzas#10. O Anão de Barba Branca|Anão de Barba Branca]] e a [[Conselho das Cinzas#9. A Drow de Armadura Negra|Drow de Armadura Negra]] ativam a Conflagração das Cinzas e recuam para as sombras com os remanescentes ([[Morice]], [[Gul'shar]], [[Utrisis]], [[Eubáfio]], [[Flash]], os Gêmeos e o Orc), dando fim às Guerras Primordiais.
+
+---
+
 ## Paralelismo Histórico com a Vanguarda
 
 Existe uma simetria deliberada e histórica entre as duas maiores forças das guerras passadas:

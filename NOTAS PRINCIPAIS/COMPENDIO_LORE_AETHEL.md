@@ -47,10 +47,17 @@ Terra de desertos implacáveis onde a sobrevivência é dura, mas o comércio e 
 
 - **Antes dos Primordiais**: A gênese cósmica, o vácuo original e o surgimento das primeiras consciências divinas.
 - **Antes das Guerras (10.000 A.G. até 0 D.G.)**:
-  - Ponto histórico notável: **[[2782 A.G.]]** — a ascensão de grandes reinos e as primeiras disputas de poder arcano.
-- **As Guerras Primordiais (0 D.G.)**: O cataclismo que remodelou a geografia de Aethel, marcando o choque entre entidades primordiais, deuses antigos e heróis mortais que ascenderam ao status divino.
+  - Marco Arcaico: **[[2782 A.G.]]** — A Ruína de Solsis causada pela tempestade ancestral do espírito [[Pack]].
+  - **A Campanha Final das Guerras Primordiais (6 A.G. a 0 D.G.)**:
+    - **[[6 A.G.]]**: O Cerco de Vor-Kharag. [[Stecs]], [[Tharok]] e [[Brann]] aniquilam o alto general **Malgazar, o Quebrador de Mundos**.
+    - **[[5 A.G.]]**: A Batalha das Névoas de Sangue. [[Kard]], [[Lordia]], [[Pato]] e [[Polar]] desintegram **Vaelokis, o Ceifador de Almas**.
+    - **[[4 A.G.]]**: A Ruptura das Muralhas Divinas. Defesa de [[Aegis]] (que ascende como Deus Protetor); sacrifício heroico de **[[Zanzs]]** e morte de **Gorgoroth, a Garra Negra**.
+    - **[[3 A.G.]]**: O Martírio de **[[Baelor]]**, que absorve o Vórtice do Caos e ascende como Deus da Compaixão e Cura, destruindo **Khorvath, o Devorador de Éter**.
+    - **[[2 A.G.]]**: A Emboscada dos Desfiladeiros de Ébano. Sacrifício supremo dos escudeiros **[[Pato]]** e **[[Polar]]** para salvar Kard e o cronista [[Eldir]] (que ascende como Deus do Conhecimento); destruição de **Zul'Theron, o Vazio**.
+    - **[[1 A.G.]]**: A Batalha dos Picos Quebrados. Sacrifício do melhor amigo de Yasuri, **[[Chris]]**, morte do general **Xanthos, o Arauto da Noite**, e última resistência heróica de **[[Kaelen]]** (que ascende como Deus da Honra e Juramentos).
+    - **[[Ano 0]] (0 D.G.)**: A Queda da Fortaleza das Cinzas e Morte de **Balgorath, o Senhor das Chamas Negras**. O [[Conselho das Cinzas#10. O Anão de Barba Branca|Anão de Barba Branca]] detona a Conflagração e recua para as trevas com os 10 remanescentes; ascensão de [[Tharok]] e formação dos [[Os Deuses Esquecidos|Deuses Esquecidos]] ([[Stecs]], [[Yasuri]], [[Kard]]). [[Lordia]] funda o reino de [[Belvária]].
 - **Depois das Guerras (0 D.G. ao Ano Atual: 1.735 D.G.)**:
-  - Reconstrução das nações, estabelecimento dos reinos de Raphlue e WoolRed, surgimento das guildas e conspirações contemporâneas.
+  - Reconstrução das nações, expansão de WoolRed, Raphlue e Belvária, e nascimento das novas gerações (veja **[[Nascimento dos Personagens]]**).
 
 ---
 
