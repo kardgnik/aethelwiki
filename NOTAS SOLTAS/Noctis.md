@@ -13,4 +13,7 @@ Ele pode ter cultos entre espiões, criminosos, nobres com pecados antigos, fam�
 **Frase de culto:**  
 “O que a luz revela, a sombra preserva.”
 ![[Pasted image 20260601034312.png]]
+### Os Avatares e Nomes Secretos
+- **[[Sythrakar|Sindrakar]] (ou Syntrakar):** É o avatar de manipulação e espionagem de Noctis nas sombras do mundo mortal. Sob esta face, atua como patrono oculto de espiões de elite como [[Vaelyra Noctharis]], movendo peças secretas para rastrear relíquias da Vanguarda e dos Deuses Esquecidos (como o [[Pingente da Verdade]]).
+
 #deuses
