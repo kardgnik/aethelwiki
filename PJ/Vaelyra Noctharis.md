@@ -31,7 +31,7 @@ Em Deorum, estudei retórica, escrita persuasiva e a magia da palavra. Aprendi a
 
 Foi também durante esse período que passei a estudar Abissal. A língua me atraía por sua aspereza e pelo peso que carregava. Muitos colegas trataram aquilo como um capricho sombrio. Eu respondia que certos pensamentos precisavam de idiomas que não pedissem licença para existir.
 
-Entre todos os que participaram de minha formação, [Jhaven](Jhaven) tornou-se minha verdadeira mestra. Uma elfa reconhecida entre as dez magas mais poderosas do mundo, ela não conquistou minha admiração por exigir obediência, mas por possuir conhecimento suficiente para não precisar fingir autoridade. Desconfio de quase toda reverência. Ainda assim, jamais tive dificuldade em admitir que a amo.
+Entre todos os que participaram de minha formação, [[Jhaven]] tornou-se minha verdadeira mestra. Uma elfa reconhecida entre as dez magas mais poderosas do mundo, ela não conquistou minha admiração por exigir obediência, mas por possuir conhecimento suficiente para não precisar fingir autoridade. Desconfio de quase toda reverência. Ainda assim, jamais tive dificuldade em admitir que a amo.
 
 Meu nome começou a circular entre estudantes, professores e visitantes ilustres. Alguns me admiravam. Outros me detestavam. Muitos faziam as duas coisas ao mesmo tempo.
 
