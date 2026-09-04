@@ -5,7 +5,7 @@
 
 Nasci em [Gold City](Gold%20City), no coração árido de [Abutrak](Abutrak), uma cidade onde a riqueza cintila o bastante para cegar quem observa de longe e apodrece o bastante para sufocar quem vive por dentro. Ali, tudo pode ser negociado. Mercadorias, informações, reputações, dívidas, segredos e pessoas. Nos salões mais luxuosos, um elogio pode custar mais caro que uma adaga, e as maiores ameaças costumam chegar vestidas com seda, acompanhadas por um sorriso impecável e um contrato cuidadosamente redigido.
 
-Sou filha de [Sevra Noctharis](Sevra%20Noctharis), uma [shadar-kai](Shadar-Kai) que trabalhava como escriba de contratos privados, e de [Edras Veyl](Edras%20Veyl), um elfo de origem incerta cujas visitas eram breves e imprevisíveis demais para que eu o considerasse verdadeiramente presente. Cresci nos bastidores do trabalho de minha mãe. Documentos eram selados antes que eu pudesse lê-los, conversas cessavam quando eu atravessava uma porta e clientes chegavam vestidos para banquetes, embora viessem negociar acordos que jamais poderiam apresentar diante de um tribunal. Minha mãe não era uma mulher poderosa, mas trabalhava para pessoas que eram. Redigia contratos que não passariam por nenhuma autoridade legítima e presenciava reuniões encerradas com apertos de mão educados, cujas consequências só apareciam dias depois.
+Sou filha de [Sevra Noctharis](Sevra%20Noctharis), uma [shadar-kai](Shadar-Kai%201.md) que trabalhava como escriba de contratos privados, e de [Edras Veyl](Edras%20Veyl), um elfo de origem incerta cujas visitas eram breves e imprevisíveis demais para que eu o considerasse verdadeiramente presente. Cresci nos bastidores do trabalho de minha mãe. Documentos eram selados antes que eu pudesse lê-los, conversas cessavam quando eu atravessava uma porta e clientes chegavam vestidos para banquetes, embora viessem negociar acordos que jamais poderiam apresentar diante de um tribunal. Minha mãe não era uma mulher poderosa, mas trabalhava para pessoas que eram. Redigia contratos que não passariam por nenhuma autoridade legítima e presenciava reuniões encerradas com apertos de mão educados, cujas consequências só apareciam dias depois.
 
 Eu não precisava compreender cada cláusula para perceber quando alguém deixava uma sala com menos futuro do que possuía ao entrar. Ainda criança, aprendi que quase tudo tinha preço. Favores. Silêncios. Absolvições. Também aprendi que as pessoas raramente temem a mentira. O que realmente temem é que outra pessoa diga a verdade antes delas.
 
@@ -208,7 +208,7 @@ Talvez essa seja a primeira convicção verdadeiramente minha.
 
 ![[Vaelyra Noctharis.png]]
 
-Raça: [[Shadar-Kai]]
+Raça: [[Shadar-Kai 1]]
 Classe: [[Bruxo]]
 
 #personagem
