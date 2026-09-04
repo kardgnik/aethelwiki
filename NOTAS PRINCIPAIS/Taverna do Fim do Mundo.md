@@ -11,7 +11,11 @@
 ### Visão Geral e Atmosfera
 No limiar onde a realidade mortal se desfaz e as correntes frias da pós-vida começam a soprar, repousa uma das construções mais singulares e enigmáticas de todo o cosmos: **A Taverna do Fim do Mundo**.
 
+![[Kard_The_Dimensional_Tavern_known_as_the_Tavern_at_the_End_of_b58d4e82-73dc-4471-b0f0-3e252721e5dc_1.png]]
+
 Erguida sobre fundações que não pertencem inteiramente a nenhum mundo sólido, a taverna existe em um bolsão de neutralidade atemporal. Suas paredes são feitas de carvalho envelhecido que absorve o som de passos, vigas de ferro fosco marcadas pelo tempo e vitrais opacos através dos quais se enxerga apenas um vazio crepuscular, ora cortado por névoas etéreas, ora iluminado pela centelha distante de planos astrais em colisão.
+
+![[Kard_Interior_of_the_Dimensional_Tavern_main_hall_dark_naval__927eb0f0-2002-4eba-9099-1359319d0673_1.png]]
 
 O ambiente carrega um aroma contrastante: o cheiro terroso de cervejas amargas, tabaco aromático e carne assada do plano material misturado ao odor gélido de ozônio, poeira de almas e o silêncio pungente da eternidade.
 
@@ -32,6 +36,8 @@ A Taverna do Fim do Mundo não pode ser alcançada por estradas comuns, carruage
 ### O Taberneiro: O Auto-Gnomo Enferrujado
 Atrás do balcão de nogueira negra, polido por séculos de copos arrastados, opera a única constante viva — ou quase viva — do estabelecimento: um **auto-gnomo antigo e enferrujado**.
 
+![[Kard_Engrenagem_an_auto_gnome_bartender_1.1_meters_tall_compa_03bb080e-3cdb-4bbd-9105-932716561a42_0.png]]
+
 - **Aparência e Trejeitos:**
   - Forjado há eras incontáveis por artífices gnomos cujo reino já virou poeira, o construto possui placas de latão e cobre tomadas por manchas avermelhadas de ferrugem e azinhavre.
   - A cada movimento de servir canecas, suas engrenagens internas emitem cliques rítmicos, silvos discretos de vapor e pequenos rangidos metálicos que compõem a trilha sonora da casa.
@@ -48,6 +54,7 @@ A Taverna do Fim do Mundo é o centro nevrálgico para os mercenários mais impl
 
 No centro da taverna, cravado em uma colossal coluna de pedra cinzenta, repousa o **Mural dos Contratos**, onde missões interplanares são afixadas e divididas pelo prestígio dos contratados:
 
+![[Kard_The_Mercenary_Column_inside_the_Dimensional_Tavern_a_fou_8911219e-0fd9-4988-860e-7be49c24f797_2.png]]
 #### Os Rankings de Renome e Perigo:
 1. **Rank Cinza / Ferro (Iniciados do Limiar):**
    - Tarefas locais que envolvem a caça de monstros em regiões limiares do Plano Material, escoltas perigosas e recuperação de corpos antes que suas almas se percam.
@@ -65,6 +72,8 @@ No centro da taverna, cravado em uma colossal coluna de pedra cinzenta, repousa 
 ### O Último Drink: As Almas em Despedida
 Além dos mercenários barulhentos e caçadores de recompensas afiando suas lâminas, existe uma ala solene e envolta em penumbra no canto oeste da taverna.
 
+![[Kard_The_Dimensional_Taverns_cosmic_distillery_bar_horseshoe-_50ee6ce5-51d1-4973-862b-c2923a8fe6ed_0.png]]
+
 Ali, em pequenas mesas iluminadas por velas de cera negra que nunca se apagam, sentam-se figuras que não carregam armas nem leem o quadro de missões: **são mortais que acabaram de falecer ou almas errantes que sentem seu tempo cósmico expirar**.
 
 - **O Ritual da Travessia:**
@@ -74,6 +83,8 @@ Ali, em pequenas mesas iluminadas por velas de cera negra que nunca se apagam, s
 - **A Regra Sagrada do Salão:**
   - Existe uma lei imutável e respeitada até pelo mais sádico dos assassinos: **ninguém toca, perturba ou ergue a voz contra alguém tomando seu último drink**. Quebrar esta regra aciona os protocolos ancestrais de defesa do auto-gnomo, que bane o infrator instantaneamente para o vácuo eterno sem direito a sepultura ou pós-vida.
   - Quando a taça se esvazia, a alma se levanta, caminha até a pesada porta dos fundos de ferro fundido e empurra o batente, desaparecendo para sempre no nevoeiro cinzento do reino de [[Moros]].
+
+![[Kard_The_Last_Drink_Nook_inside_the_Dimensional_Tavern_a_sole_048b2da4-cf0f-412e-b5c2-d93ce5884dd7_0 1.png]]
 
 ---
 
