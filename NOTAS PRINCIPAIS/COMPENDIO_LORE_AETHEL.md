@@ -97,7 +97,7 @@ Três divindades primordiais cujos cultos foram obscurecidos pelo tempo, mas cuj
 
 ## 5. ORGANIZAÇÕES E FAÇÕES
 
-1. **[[Conselho das Cinzas]]**: A conspiração mais perigosa de Aethel. Uma cabala oculta com infiltrados nas nobrezas, ordens religiosas e guildas mercantis, trabalhando para reverter os equilíbrios do mundo pós-guerra.
+1. **[[Conselho das Cinzas]]**: A conspiração e força antagônica suprema de Aethel. Dividida rigorosamente entre o **Alto Conselho** (os 5 mais fortes: O Anão de Barba Branca, A Drow de Armadura Negra, O Campeão Orc, O Segundo Gêmeo, O Primeiro Gêmeo) e o **Baixo Conselho** (os 5 menos fortes: [[Morice]], [[Gul'shar]], [[Utrisis]], [[Eubáfio]], [[Flash]]), operando uma rede continental de corrupção, leilões ilícitos e controle geopolítico.
 2. **[[Ordem das Perspectivas]]**: Seita sediada em Raphlue que prega que a iluminação reside em múltiplas visões, mas cujo templo secreto cultua uma estátua corrompida e é conduzido pelo clérigo austero **Thalen Morvai** ([[Thalros]]).
 3. **[[Ordem dos Sem-Face]]**: Organização neutra que compreende a "Verdade" como algo prismático e multifacetado, responsável pela criação e criação de changelings como [[Nyxen]].
 4. **[[Gatunos do Mar]]**: Linhagem de marinheiros e piratas tabaxi (da qual o Capitão [[Zahari Del Gato]] é herdeiro), com tradição de navegação e acordos com os baixos-fundos.

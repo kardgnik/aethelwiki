@@ -30,4 +30,10 @@ Fora desse plano existem vários lugares, infinitos até, mas os principais são
  - [[deuses]]
  - [[entidades]]
 ----
-
+#### FAÇÕES & ORGANIZAÇÕES
+- [[Conselho das Cinzas]]
+- [[Vanguarda]]
+- [[Ordem das Perspectivas]]
+- [[Ordem dos Sem-Face]]
+- [[Gatunos do Mar]]
+- [[Companhia das Rosas Negras]]
