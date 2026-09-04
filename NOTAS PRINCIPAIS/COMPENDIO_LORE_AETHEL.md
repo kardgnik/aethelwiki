@@ -21,6 +21,7 @@ Além do plano material existem dimensões e refúgios planares essenciais:
 O maior e mais populoso continente, caracterizado por sua diversidade de povos, raças e tensões políticas permanentes. Está historicamente dividido entre duas potências rivais:
 1. **[[WoolRed]]**: Reino do norte, de cultura estritamente militarista e populista, com controle estatal rigoroso sobre a economia, sob a regência do **Rei Larius III**. Berço de forças militares de elite como o pelotão *Força Fantasma* (ao qual pertenceu [[Shuro Izagi]]).
 2. **[[Raphlue]]**: Reino tecnocrata e elitista, governado pelo Conselho Regente de 6 irmãos desde a deposição de seu antigo monarca. Um polo de estudos arcanos e intrigas de poder, abrigando a cidade portuária de **Raphlufen** (ou Rafen) e o templo subterrâneo da **[[Ordem das Perspectivas]]**.
+3. **[[Belvária]]**: Soberana e próspera cidade-estado independente situada nos férteis vales centrais, governada pela enigmática Rainha **[[Lordia]]** (veterana da [[A Vanguarda|Vanguarda]], outrora amante de [[Kard]] e [[Yasuri]], e uma das Três Chaves Vivas da [[Biblioteca Sagrada]]).
 
 ### [[Solsis]] (O Continente Glacial)
 Continente congelado e inóspito, dominado de ponta a ponta por uma gigantesca cadeia montanhosa que impede a passagem terrestre direta. A travessia só é possível por duas rotas:

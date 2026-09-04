@@ -9,7 +9,7 @@
 
 ## Metadados & Participantes
 - **Personagens dos Jogadores (PJs):** [[Natasha]], [[Nyxen]], [[Ilyan Varek]], [[Zahari Del Gato]], [[Lorelay Linma]], [[Vaelyra Noctharis]], [[Zaran]]
-- **NPCs em Destaque:** [[Bau]], [[Alberto]], [[Entidade / Manifestação de [[Vael]]]]
+- **NPCs em Destaque:** [[Bau]], [[Alberto]], Entidade / Manifestação de Vael
 - **Locais Visitados:** [[Distrito Central de [[Raphlue]]]], [[Arredores do Templo da [[Ordem das Perspectivas]]]]
 - **Organizações / Entidades:** [[Ordem das Perspectivas]], [[Culto de [[Vael]]]], [[Conselho das Cinzas]]
 

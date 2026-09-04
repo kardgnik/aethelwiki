@@ -9,7 +9,7 @@ Sou filha de [Sevra Noctharis](Sevra%20Noctharis), uma [shadar-kai](Shadar-Kai) 
 
 Eu não precisava compreender cada cláusula para perceber quando alguém deixava uma sala com menos futuro do que possuía ao entrar. Ainda criança, aprendi que quase tudo tinha preço. Favores. Silêncios. Absolvições. Também aprendi que as pessoas raramente temem a mentira. O que realmente temem é que outra pessoa diga a verdade antes delas.
 
-Minha família me ofereceu professores pouco convencionais. [Elthra Noctharis](Elthra%20Noctharis), minha tia-avó, era uma alquimista excêntrica que afirmava que toda substância guardava memória. Foi com ela que aprendi a moer raízes, medir essências, reconhecer reagentes pelo cheiro e respeitar a diferença entre uma mistura inútil e uma reação capaz de alterar tudo ao redor. Elthra desapareceu durante uma de suas experiências, deixando para trás mais perguntas do que respostas. [Tharivon Noctharis](Tharivon%20Noctharis), meu tio-avô, era um ladrão especialista, embora raramente utilizasse essa palavra para descrever o próprio ofício. Com ele, entendi que fechaduras, armadilhas e cofres não servem apenas para impedir uma entrada. Revelam exatamente o que seus donos mais temem perder.
+Minha família me ofereceu professores pouco convencionais. [Elthra Noctharis](Elthra%20Noctharis.md), minha tia-avó, era uma alquimista excêntrica que afirmava que toda substância guardava memória. Foi com ela que aprendi a moer raízes, medir essências, reconhecer reagentes pelo cheiro e respeitar a diferença entre uma mistura inútil e uma reação capaz de alterar tudo ao redor. Elthra desapareceu durante uma de suas experiências, deixando para trás mais perguntas do que respostas. [Tharivon Noctharis](Tharivon%20Noctharis.md), meu tio-avô, era um ladrão especialista, embora raramente utilizasse essa palavra para descrever o próprio ofício. Com ele, entendi que fechaduras, armadilhas e cofres não servem apenas para impedir uma entrada. Revelam exatamente o que seus donos mais temem perder.
 
 Mesmo assim, minha verdadeira aptidão nunca esteve nas ferramentas. Estava nas palavras.
 
@@ -67,7 +67,7 @@ Desde o pacto, pequenos sinais passaram a me acompanhar. As sombras ao meu redor
 
 Ou, ao menos, eu acreditava conhecê-los.
 
-## O [Pingente da Verdade](Pingente%20da%20Verdade)
+## O [Pingente da Verdade](Pingente%20da%20Verdade.md)
 
 Sythrakar me pediu que recuperasse um antigo pingente disputado durante um leilão. Estudos arqueológicos afirmavam que o artefato possuía a capacidade de invocar um espírito de gelo que lutara nas [Guerras Primordiais](Antes%20das%20Guerras). Outros interessados também o procuravam, incluindo figuras ligadas a riquezas antigas e ao legado do [Conselho das Cinzas](Conselho%20das%20Cinzas).
 

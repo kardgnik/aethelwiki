@@ -2,7 +2,7 @@ O maior dos três continentes e mais heterogêneo no que se trata de raças e pr
  - [[WoolRed]]
  - [[Raphlue]]
 
-Existem muitas vilas e cidades espalhadas pelo continente, que por ser muito grande nem sempre pertencem a algum dos reinos e é simplesmente independente e vive por si só.
+Existem muitas vilas e cidades espalhadas pelo continente, que por ser muito grande nem sempre pertencem a algum dos reinos e é simplesmente independente e vive por si só. O exemplo mais ilustre e próspero é **[[Belvária]]**, a majestosa cidade-estado governada pela Rainha **[[Lordia]]** (antiga heroína da [[A Vanguarda|Vanguarda]]).
 
 ![[VIRTUS.png]]
 
