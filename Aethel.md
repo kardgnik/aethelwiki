@@ -1,3 +1,5 @@
+> **Registro Geral & Síntese Oficial**: [[COMPENDIO_LORE_AETHEL|Compêndio Canônico de Aethel]]
+
 #### LOCALIDADES
 O Chamado Plano Material. Lar dos Mortais, dominado por três continentes e mares selvagens, são eles: 
  - [[Virtus]]
@@ -20,7 +22,7 @@ Fora desse plano existem vários lugares, infinitos até, mas os principais são
 - [[Nascimento dos Personagens]]
 ----
 #### PJ's
-- [[GRUPO 01 - CRONICAS]]
+- [[GRUPO 01 - CRONICAS]] (*9 Sessões Transcritas*)
 - [[GRUPO 02 - LAGRIMAS]]
 - [[GRUPO 03 - BRASAS]]
 ----
