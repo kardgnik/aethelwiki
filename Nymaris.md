@@ -61,7 +61,7 @@ Nymaris percorreu cada oceano.
 
 Não restaurou as antigas costas nem devolveu ao mundo todos os territórios perdidos. Em vez disso, abriu novas passagens. Alterou correntes, deslocou bancos de areia, rompeu recifes e permitiu que a água encontrasse caminhos ao redor das cicatrizes deixadas pela guerra.
 
-Foi nesse período que sua aliança com Faenor se tornou inseparável da reconstrução do mundo.
+Foi nesse período que sua aliança com [[Faenor]] se tornou inseparável da reconstrução do mundo.
 
 Nymaris colocou as águas novamente em movimento.
 
@@ -95,17 +95,7 @@ Ela presta pouca atenção àqueles que permanecem na costa pedindo que nenhum p
 
 Capitães que procuram rotas impossíveis, navegadores que se recusam a aceitar mapas incompletos, exploradores que atravessam águas proibidas e marinheiros que desejam deixar de servir para um dia comandar despertam seu interesse.
 
-Ela não considera errado desejar riqueza, liberdade, poder ou domínio.
-
-O desejo coloca as criaturas em movimento.
-
-Sem ele, nenhum navio deixaria o porto.
-
-Existe, entretanto, uma diferença que Nymaris considera absoluta.
-
-Ela admira quem deseja conquistar o mar.
-
-Ela despreza quem acredita que o mar já lhe pertence.
+Ela não considera errado desejar riqueza, liberdade, poder ou domínio. O desejo coloca as criaturas em movimento. Sem ele, nenhum navio deixaria o porto. Existe, entretanto, uma diferença que Nymaris considera absoluta. Ela admira quem deseja conquistar o mar. Ela despreza quem acredita que o mar já lhe pertence.
 
 O primeiro reconhece a grandeza do desafio. O segundo acredita estar acima dele.
 
@@ -123,7 +113,7 @@ Ela apenas exige que nenhum deles confunda confiança com invulnerabilidade.
 
 O melhor capitão ainda depende da madeira de seu navio, da habilidade de sua tripulação, da direção do vento e da disposição das águas. Aquele que esquece essas dependências já começou a afundar, mesmo que seu convés continue seco.
 
-Sua relação com Ilyana nasceu antes das primeiras embarcações.
+Sua relação com [[Ilyana]] nasceu antes das primeiras embarcações.
 
 A lua movimentava as águas muito antes que os mortais compreendessem as marés. Nymaris reconheceu em Ilyana uma presença capaz de orientar seus ciclos sem tentar aprisioná-los.
 
@@ -135,7 +125,7 @@ Nymaris decide quais caminhos surgem quando elas se movem.
 
 Alguns navegadores afirmam que a lua pertence ao céu, mas seu reflexo pertence a Nymaris. Por isso, viagens iniciadas sob uma lua refletida em águas perfeitamente calmas são consideradas especialmente significativas. Não necessariamente seguras, mas destinadas a transformar aqueles que embarcam.
 
-Sua rivalidade com Vorath é mais violenta.
+Sua rivalidade com [[Vorath]] é mais violenta.
 
 Nymaris não se opõe às tempestades. Ventos fortes movimentam águas, alteram costas e obrigam marinheiros a respeitar o oceano. Ondas podem destruir embarcações e ainda assim pertencer à ordem natural do mundo.
 
@@ -147,7 +137,7 @@ Vorath deseja que o horizonte inspire medo suficiente para manter todos em terra
 
 Nymaris deseja que o horizonte continue sendo perseguido.
 
-A existência da [**Fonte do Desejo**](https://chatgpt.com/c/Fonte%20do%20Desejo) é atribuída a um raro momento de tristeza da deusa.
+A existência da [[Fonte do Desejo]] é atribuída a um raro momento de tristeza da deusa.
 
 Depois das Guerras Primordiais, Nymaris atravessou águas cobertas por destroços. Encontrou navios que haviam partido em busca de liberdade e transportado seus tripulantes até a morte. Viu frotas erguidas por ambição serem destruídas pela mesma ambição que as colocara em movimento.
 

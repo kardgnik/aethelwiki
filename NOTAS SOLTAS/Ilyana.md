@@ -1,4 +1,4 @@
-==PRIMORDIAL==
+#Primordial 
 - **História:** Durante as Guerras Primordiais, guiou os mortais de [[Nêmesis]] através da escuridão. Tornou-se a vigia noturna do panteão.
 - **Conexões:** Aliada de **[[Amanthor]]** (formam o ciclo do dia/noite) e **[[Eldir]]** (que estuda as estrelas). Tem rivalidade direta com **[[Noctis]]**, que tenta corromper sua escuridão pacífica em medo. 
 
