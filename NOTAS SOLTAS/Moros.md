@@ -1,5 +1,5 @@
 - **História:** Um juiz imparcial que assumiu o manto de guiar as almas para o pós-vida, garantindo que a morte seja apenas uma transição natural.
-    
+
 - **Conexões:** Aliado de **[[Elaria]]** (a magia flui pelo ciclo). Em guerra constante contra **[[Nekhar]]**, que tenta roubar almas e corromper o ciclo com a morte prematura ou mortos-vivos.
 
 Moros não é o deus que mata. Ele é o deus que chega quando a morte já aconteceu.
