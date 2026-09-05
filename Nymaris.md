@@ -149,7 +149,7 @@ Também era a razão pela qual tantos jamais retornavam.
 
 Uma única lágrima caiu de seu rosto.
 
-A lágrima não se misturou ao oceano. Afundou através das águas, atravessou correntes profundas e repousou em uma caverna escondida, onde se transformou em uma fonte de águas prateadas.
+A lágrima não se misturou ao oceano. Afundou através das águas, atravessou correntes profundas e repousou em uma caverna escondida, onde se transformou em uma fonte de águas prateadas. Local conhecido como [[Cemitério das Correntes]].
 
 A Fonte herdou a mesma lei presente em toda travessia.
 
