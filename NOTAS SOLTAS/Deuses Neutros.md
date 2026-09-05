@@ -5,5 +5,6 @@
 - [[Faenor]]: Natureza selvagem.
 - [[Brann]]: Forja e invenção.
 - [[Aegis]]: Vigilância e proteção.
+- [[Nymaris]]: Mares e Navegação
 
 #deuses
