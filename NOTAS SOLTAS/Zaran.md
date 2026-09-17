@@ -11,6 +11,8 @@
 ### Aparência e Modo de Agir
 Zaran é um jovem elfo de traços marcantes e olhar penetrante, aparentando cerca de 26 anos. Apesar de carregar um ar selvagem e destemido — com cabelos longos e barbicha aparada —, veste-se com um pesado manto verde sobre uma armadura resistente forrada de peles, perfeitamente adaptada para o rigor e frio do norte. Caminha apoiando-se em um cajado rústico e expressa-se com postura ponderada, serena e madura.
 
+![[Zaram.jpg]]
+
 ---
 
 ### Entrada no Grupo
