@@ -22,7 +22,7 @@ Fora desse plano existem vários lugares, infinitos até, mas os principais são
 - [[Nascimento dos Personagens]]
 ----
 #### PJ's
-- [[GRUPO 01 - CRONICAS]] (*9 Sessões Transcritas*)
+- [[GRUPO 01 - CRONICAS]] (*10 Sessões Transcritas*)
 - [[GRUPO 02 - LAGRIMAS]]
 - [[GRUPO 03 - BRASAS]]
 ----

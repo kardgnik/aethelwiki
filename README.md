@@ -105,7 +105,7 @@ Dados computados do estado do repositório:
 | **Arquivos em `PJ/`** | 9 |
 | **Arquivos em `SESSOES/CRONICAS/`** | 9 |
 | **Assets de Mídia (`IMAGENS/`)** | 77 arquivos (PNG, JPG, JPEG) |
-| **Volume Total de Dados** | ~275 MB |
+| **Volume Total de Dados** | ~273 MB |
 | **Tags Únicas Mapeadas** | 28 |
 
 ---

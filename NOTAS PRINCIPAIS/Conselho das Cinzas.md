@@ -113,3 +113,4 @@ Existe uma simetria deliberada e histórica entre as duas maiores forças das gu
 - **[[Sessão 01 - Crônicas de Aethel|Sessão 01]]:** Articulações e leilões clandestinos com o envolvimento indireto de [[Eubáfio]].
 - **[[Sessão 06 - Crônicas de Aethel|Sessão 06]]:** Revelação de agentes do Conselho manipulando guardas locais e atentados contra druidas.
 - **[[Sessão 07 - Crônicas de Aethel|Sessão 07]]:** Advertências expressas sobre o perigo e influência do aristocrata elfo do Conselho.
+- **[[Sessão 10 - Crônicas de Aethel|Sessão 10]]:** A Rainha [[Lordia]] revela que o Alto Conselho opera em escala de avatares divinos na terra que buscam reconstruir o mundo a partir do zero; descoberta de que a seita de Morvai recebe fundos de [[Eubáfio]] e que assassinos marcham para infiltrar-se em [[Belvária]].
