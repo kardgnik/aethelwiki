@@ -55,6 +55,15 @@ Uma lâmina nas sombras.
 > Seja alma.
 > Ou segredos que nunca deveriam ter sido descobertos.
 
+---
+
+### **Equipamentos e Inventário Destacado**
+- **Rapieira +2 (*Rapier +2*):** Arma principal adquirida no mercado de armas de Raphlue (Sessão 10) por 2.587 PO (paga com 200 PP + 587 PO após desconto negociado com o ferreiro Mauro).
+- **Vestido Vermelho de Gala:** Traje nobre de alta costura presenteado por [[Zahari Del Gato]] para a viagem e audiências diplomáticas.
+- **Poção de Cura Maior (*Potion of Greater Healing*):** Recupera $4d4 + 4$ PV (obtida no templo da Ordem das Perspectivas de Morvai).
+
+---
+
 Classe: [[Ladino]]
 Raça: [[Dhampir]]
 

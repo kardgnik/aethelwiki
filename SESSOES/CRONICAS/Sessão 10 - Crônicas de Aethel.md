@@ -33,6 +33,31 @@ Após adquirirem trajes nobres e provisões no mercado de Raphlue, os heróis in
 
 ---
 
+## Espólios, Tesouro e Equipamentos Adquiridos
+
+### 1. Saque no Templo & Escritório de Morvai
+- **6x Poções de Cura Maior (*Potion of Greater Healing*):** Localizadas nos arquivos da mesa de Morvai (cada uma cura $4d4 + 4$ PV). Distribuídas igualitariamente: 1 frasco para cada membro do grupo.
+- **Tesouro em Moedas do Culto (~10 kg):** Encontrado na última gaveta de Morvai, contendo entre 1.200 e 1.300 Peças de Platina (PP) além de moedas soltas de ouro e prata. Rendimento de cerca de **200 PP para cada aventureiro** (com sobras registradas de 16 PP e 6 PO para acertos).
+- **Documentos & Registros:** Carta confidencial sob as iniciais **EJ** ([[Eubáfio]] Jurasangue) ordenando a ida de Morvai a [[Belvária]] para cobrança de dízimo e recursos, além dos livros contábeis de movimentação da seita.
+
+### 2. Itens Mágicos Identificados na Viagem (por [[Nyxen]])
+- **[[Ilyan Varek]] — Véu da Mente Fraturada (*Veil of the Fractured Mind*):** Capuz de seda escura resgatado do escritório por Vaelyra e repassado a Ilyan. *Reação:* ao sofrer ataque corpo a corpo, força o atacante a realizar salvaguarda de Sabedoria CD 15. Em falha, sofre $2d6$ de dano psíquico; em sucesso, sofre desvantagem no próximo ataque.
+- **[[Nyxen]] — Bracelete dos Suspiros Psíquicos (*Bracelet of Psychic Whispers*):** Bracelete de metal negro escuro entalhado com runas (saqueado do cultista vivo). Ao acertar ataque que cause dano psíquico (como as adagas de *Soulknife*), causa **$+1d8$ de dano psíquico extra**.
+- **[[Vaelyra Noctharis]] — Brinco dos Ecos Mentais (*Earring of Mental Echoes*):** Brinco sutil de prata escurecida com ametista pulsante (saqueado do doppelganger caído). 1x por turno, ao acertar ou conjurar magia que cause dano, adiciona **$+1d8$ de dano psíquico**.
+
+### 3. Compras & Negociações no Mercado de Raphlue
+- **[[Natasha]] — Rapieira +2 (*Rapier +2*):** Comprada na forja de armas mágicas de Mauro. Preço original de 3.450 PO, reduzido para **2.587 PO** graças a 25% de desconto conquistado por Vaelyra em teste de persuasão (25). Paga à vista por Natasha com **200 Peças de Platina (PP)** (= 2.000 PO) + **587 Peças de Ouro (PO)**.
+- **[[Vaelyra Noctharis]] — Varinha do Guardião do Pacto +1 (*Rod of the Pact Keeper +1*):** Bastão arcano octogonal (+1 em ataques/CD de magias de bruxo e recuperação de 1 espaço de pacto/dia) comprado com Mauro por **8.000 PO**. Vaelyra pagou **2.660 PO de entrada** (216 PP + 500 PO) e firmou contrato mágico a prazo de **5.340 PO** selado com sangue.
+- **[[Ilyan Varek]] — Jaqueta de Couro do Pugilista +1 (*Pugilist Leather Jacket +1*):** Colete especial sem mangas feito de escamas de criatura alada (+1 na CA sem anular defesas de artes marciais). Valor de 2.750 PO negociado por **2.000 PO** (pago com **200 Peças de Platina** do tesouro).
+- **[[Nyxen]] — Capa de Proteção (*Cloak of Protection*):** Capa preta (+1 na CA e em todas as salvaguardas), adquirida por **1.968 PO** (paga com **196 PP e 8 PO**).
+- **[[Zaran]] — Bolsa sem Fundo Ecológica (*Bag of Holding*):** Confeccionada em tecido azul sem insumos animais. Vendida pela alfaiate com desconto de cliente fiel por **100 PO** (amarrada por Zaran no cajado).
+- **[[Natasha]] — Vestido Vermelho de Gala:** Presente comprado por [[Zahari Del Gato]] por **185 PO** (desconto de 15 PO sobre os 200 originais).
+- **[[Vaelyra Noctharis]] — Vestido Preto de Gala com Caixa de Luxo:** Presente adquirido por Natasha e Zahari por **150 PO** (145 PO do traje + 5 PO da caixa com fios dourados e prata).
+- **Suprimentos Menores & Viagem:** Kits de Curandeiro (*Healer's Kits*) e Coletânea de Poemas comprada por Zaran; aluguel de carruagem para Belvária por **7 PO e 5 PP** (+2 PO de gorjeta de Ilyan).
+- **[[Vaelyra Noctharis]] — Cristal da Boa Sorte:** Pedrinha translúcida verde de quartzo comprada por **5 PO** com vendedora de rua em Belvária.
+
+---
+
 ## Transcrição Estruturada e Registro Cronológico
 > *Transcrição oficial extraída e formatada em blocos temporais para busca rápida.*
 
