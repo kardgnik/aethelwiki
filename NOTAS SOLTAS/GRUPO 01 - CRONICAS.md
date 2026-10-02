@@ -9,6 +9,7 @@
 - [[Shuro Izagi]]
 - [[Vaelyra Noctharis]]
 - [[Zaran]]
+- [[Rovi]]
 
 ---
 
@@ -43,3 +44,6 @@
 
 #### [[Sessão 10 - Crônicas de Aethel|E10 - A Queda do Templo de Morvai e a Audiência com a Rainha Lordia]]
 *Com os cupcakes explosivos de Bau e o mapa de Alberto, o grupo invade os subterrâneos da Ordem das Perspectivas e pulveriza a estátua que escravizava os cultistas. No escritório de Thalen Morvai, saqueiam documentos e registros contábeis ligando a seita ao magnata Eubáfio e indicando movimentações para Belvária. Após se equiparem no mercado, viajam pelos vales de Virtus até a célebre 'Cidade dos Espelhos e das Rosas'. No Palácio das Rosas, conseguem audiência com a Rainha Lordia. Quando Nyxen assume a forma de Eubáfio, Lordia fecha as portas do castelo para uma revelação histórica estarrecedora: confirma que lutou nas Guerras Primordiais ao lado de Kard, Yasuri e Stecs sob a bandeira de Nêmesis, adverte sobre o poder destrutivo do Alto Conselho das Cinzas e confirma a caçada pelos três artefatos sagrados (o Pingente, o Manto e a Lança) enquanto assassinos da seita se infiltram na cidade sob pretexto de dízimo.*
+
+#### [[Sessão 11 - Crônicas de Aethel|E11 - O Javali de Ouro, a Casa da Moeda e o Rastro de Cássia]]
+*Descendo os terraços de Belvária, o grupo se estabelece na Taverna do Javali de Ouro, onde conhece a barda Tiefling Rovi e ativa acidentalmente as defesas mágicas do teto. Nas ruas, Natasha usa o submundo para espalhar a frase-código da 'Donzela da Tempestade' visando contatar a amiga Drow. Pistas conectam Thalen Morvai à Casa da Moeda de Belvária; Vaelyra envia uma mensagem mágica alertando Lordia. No dia seguinte, Zahari lidera uma infiltração social na Casa da Moeda simulando alugar um cofre: o Pingente da Verdade é exibido e avaliado em até 2 milhões de peças de ouro! Cativando a secretária Eloísa, descobrem que Morvai opera como cobrador itinerante a mando do diretor do banco, o Conselheiro Cássia (Cassian), e estará em um jantar privado na mansão do nobre naquela mesma noite para recolher o Tributo do Silêncio. Contudo, antes que o grupo aja, Lordia envia uma mensagem mágica urgente convocando os heróis de volta, e a sessão se encerra com as portas do Palácio das Rosas se abrindo para uma nova audiência.*
