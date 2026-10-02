@@ -1,4 +1,4 @@
-# Sessão 11 - Crônicas de Aethel: O Javali de Ouro, a Casa da Moeda e o Rastro de Cássia
+# Sessão 11 - Crônicas de Aethel: O Javali de Ouro, a Casa da Moeda e o Rastro do Conselheiro Cassian
 
 **Campanha:** [[GRUPO 01 - CRONICAS|Crônicas de Aethel]] (D&D 5e - 2024)  
 **Transmissão Oficial:** [Assistir no YouTube](https://www.youtube.com/watch?v=j5N5UjQjdtY)  
@@ -8,8 +8,8 @@
 ---
 
 ## Metadados & Participantes
-- **Personagens dos Jogadores (PJs):** [[Natasha]] (Tasha), [[Nyxen]], [[Ilyan Varek]], [[Zahari Del Gato]], [[Vaelyra Noctharis]], [[Rovi]] (Barda Tiefling recém-incorporada)
-- **NPCs em Destaque:** [[Lordia]] (Rainha de Belvária), Thalen Morvai ([[Thalros]] / 'Tál'), Conselheiro Cássia ([[Conselheiro Cassian]] / Gerente da Casa da Moeda), Eloísa (Secretária da Casa da Moeda), Avaliador-Chefe da Casa da Moeda, Taverneiro Anão do Javali de Ouro, Informante da Calçada / Mendigo de Belvária, A Amiga Drow ([[A Drow de Armadura Negra]] / mencionada sob a senha da Donzela da Tempestade), [[Bau]] e [[Madame Ming]] (mencionados)
+- **Personagens dos Jogadores (PJs):** [[Natasha]] (Tasha), [[Nyxen]], [[Ilyan Varek]], [[Zahari Del Gato]], [[Vaelyra Noctharis]], [[Rowan]] (Rowan / Rovan — Barda Tiefling recém-incorporada)
+- **NPCs em Destaque:** [[Lordia]] (Rainha de Belvária), Thalen Morvai ([[Thalros]] / 'Tál'), [[Conselheiro Cassian]] (Gerente da Casa da Moeda), Eloísa (Secretária da Casa da Moeda), Avaliador-Chefe da Casa da Moeda, Taverneiro Anão do Javali de Ouro, Informante da Calçada / Mendigo de Belvária, A Amiga Drow ([[A Drow de Armadura Negra]] / mencionada sob a senha da Donzela da Tempestade), [[Bau]] e [[Madame Ming]] (mencionados)
 - **Locais Visitados:** [[Belvária]] (A Cidade dos Espelhos e das Rosas), Taverna do Javali de Ouro, Pátio das Fontes e Escadarias de Mármore, Casa da Moeda de Belvária (Banco Central), Palácio das Rosas
 - **Organizações / Entidades:** Reino de [[Belvária]], [[Ordem das Perspectivas]], [[Conselho das Cinzas]], Submundo de Belvária, [[Companhia das Rosas Negras]] (mencionada)
 
@@ -18,20 +18,20 @@
 ## Sinopse Narrativa
 Após a reveladora audiência noturna com a Rainha Lordia no Palácio das Rosas, os heróis iniciam sua operação clandestina em Belvária. O grupo debate a busca pela misteriosa amiga Drow: Vaelyra expõe a gravidade do perigo, lembrando o alerta de Lordia sobre o histórico letal da elfa negra nas Guerras Primordiais, mas Natasha e Zahari sustentam que ela é uma aliada vital que precisa ser contatada pelo submundo. O grupo então se estabelece na renomada Taverna do Javali de Ouro — onde Vaelyra, em uma aposta bem-humorada de família, usa Passo Nebuloso até o telhado e ativa acidentalmente uma potente runa de choque elétrico ao tocar o ornamento do javali de ouro.
 
-No interior da taverna, entre costelinhas ao molho de ameixa e canecos da densa cerveja artesanal anã, os aventureiros conhecem Rovi, uma carismática barda Tiefling que trabalha meio período no local e que logo se afeiçoa ao grupo peculiar. Em seguida, Natasha e Zahari descem às praças de Belvária e acionam a rede do submundo, pagando cinco moedas de ouro a um informante de rua para disseminar uma frase-código cifrada: 'A Donzela da Tempestade procura uma rosa na escuridão', visando atrair a atenção da Drow sem alertar a guarda real.
+No interior da taverna, entre costelinhas ao molho de ameixa e canecos da densa cerveja artesanal anã, os aventureiros conhecem Rowan (Rovan), uma carismática barda Tiefling que trabalha meio período no local e que logo se afeiçoa ao grupo peculiar. Em seguida, Natasha e Zahari descem às praças de Belvária e acionam a rede do submundo, pagando cinco moedas de ouro a um informante de rua para disseminar uma frase-código cifrada: 'A Donzela da Tempestade procura uma rosa na escuridão', visando atrair a atenção da Drow sem alertar a guarda real.
 
-A investigação ganha tração quando pistas conectam Thalen Morvai à Casa da Moeda de Belvária. Através de um envio mágico (Sending) de Vaelyra, Lordia é informada de que o cultista está rondando as finanças públicas. Na manhã seguinte, Zahari lidera uma audaciosa infiltração diplomática na Casa da Moeda, apresentando-se como um lendário produtor artístico interessado em alugar o cofre mais seguro da cidade. Para comprovar sua fortuna, Zahari exibe o Pingente da Verdade; o avaliador-chefe fica estarrecido e precifica o artefato sagrado de Kard entre um milhão e meio e dois milhões de peças de ouro.
+A investigação ganha tração quando pistas conectam Thalen Morvai à Casa da Moeda de Belvária. Através de um envio mágico (Sending) de Vaelyra, Lordia é informada de que o cultista está rondando as finanças públicas. Na manhã seguinte, Nyxen assume a persona de Aelarion, um excêntrico e lendário produtor artístico interessado em alugar o cofre mais seguro da cidade, liderando uma audaciosa infiltração social acompanhado pelo grupo. Para comprovar seu patrimônio e status, Nyxen exibe o Pingente da Verdade; o avaliador-chefe fica estarrecido e precifica o artefato sagrado de Kard entre um milhão e meio e dois milhões de peças de ouro.
 
-Cativando a secretária Eloísa, o grupo descobre uma conspiração de primeiro escalão: Morvai (conhecido ali como 'Tál') opera como cobrador itinerante a mando do próprio diretor-gerente do banco, o influente Conselheiro Cássia (Cassian), e estará presente em um jantar fechado na mansão do conselheiro naquela mesmíssima noite para recolher o Tributo do Silêncio. Antes que possam agir, a Rainha Lordia envia uma mensagem mágica urgente antecipando seu compromisso com os heróis. A sessão se encerra no instante em que o grupo atinge novamente o topo das escadarias brancas e as grandes portas do Palácio das Rosas se abrem para uma reunião emergencial decisiva.
+Cativando a secretária Eloísa, o grupo descobre uma conspiração de primeiro escalão: Morvai (conhecido ali como 'Tál') opera como cobrador itinerante a mando do próprio diretor-gerente do banco, o influente Conselheiro Cassian, e estará presente em um jantar fechado na mansão do conselheiro naquela mesmíssima noite para recolher o Tributo do Silêncio. Usando o pretexto de uma audiência para se despedir graciosamente de Eloísa, os heróis se reúnem do lado de fora e deliberam sobre o próximo passo. Reconhecendo a gravidade e o risco de invadir a propriedade de um dos principais conselheiros do reino sem o conhecimento da soberana, o grupo decide por iniciativa própria retornar às pressas ao Palácio das Rosas para relatar a descoberta à Rainha Lordia e articular com ela a melhor estratégia para o banquete. A sessão se encerra no instante em que o grupo atinge novamente o topo das escadarias brancas e as grandes portas do Palácio das Rosas se abrem para a nova audiência.
 
 ---
 
 ## Registros e Revelações de Lore
 - **A Precificação do Pingente da Verdade:** Avaliado formalmente pelos peritos da Casa da Moeda de Belvária entre 1,5 milhão e 2 milhões de Peças de Ouro (PO), confirmando a magnitude incomensurável das relíquias primordiais de Kard.
-- **A Conspiração do Conselheiro Cássia (Cassian):** Descoberta de que o diretor da Casa da Moeda e membro do alto conselho de governo de Belvária mantém Thalen Morvai na folha de pagamento itinerante, lavando tributos confidenciais para Eubáfio Jurasangue.
-- **O Jantar Secreto na Mansão:** Revelação crucial de que Thalen Morvai estará presente na residência particular do Conselheiro Cássia na noite atual para recolher o Tributo do Silêncio em ouro e platina.
+- **A Conspiração do Conselheiro Cassian:** Descoberta de que o diretor da Casa da Moeda e membro do alto conselho de governo de Belvária mantém Thalen Morvai na folha de pagamento itinerante, lavando tributos confidenciais para Eubáfio Jurasangue.
+- **O Jantar Secreto na Mansão:** Revelação crucial de que Thalen Morvai estará presente na residência particular do Conselheiro Cassian na noite atual para recolher o Tributo do Silêncio em ouro e platina.
 - **O Código da Donzela da Tempestade:** Natasha lança nas vielas do submundo a senha secreta ('A Donzela da Tempestade procura uma rosa na escuridão') para estabelecer contato com a Drow de Armadura Negra.
-- **Entrada de Rovi:** A barda Tiefling Rovi é incorporada ao grupo após interações na Taverna do Javali de Ouro.
+- **Entrada de Rowan (Rovan):** A barda Tiefling Rowan é incorporada ao grupo após interações na Taverna do Javali de Ouro.
 - **A Segurança Mágica do Javali de Ouro:** A carranca externa do Javali de Ouro possui runas arcanas de choque e repulsão que atingem quem tenta vandalizar ou escalar a estrutura sem autorização.
 
 ---
