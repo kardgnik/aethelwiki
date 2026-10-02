@@ -9,7 +9,7 @@
 
 ## Metadados & Participantes
 - **Personagens dos Jogadores (PJs):** [[Natasha]] (Tasha), [[Nyxen]], [[Ilyan Varek]], [[Zahari Del Gato]], [[Vaelyra Noctharis]], [[Rowan]] (Rowan / Rovan — Barda Tiefling recém-incorporada)
-- **NPCs em Destaque:** [[Lordia]] (Rainha de Belvária), Thalen Morvai ([[Thalros]] / 'Tál'), [[Conselheiro Cassian]] (Gerente da Casa da Moeda), Eloísa (Secretária da Casa da Moeda), Avaliador-Chefe da Casa da Moeda, Taverneiro Anão do Javali de Ouro, Informante da Calçada / Mendigo de Belvária, A Amiga Drow ([[A Drow de Armadura Negra]] / mencionada sob a senha da Donzela da Tempestade), [[Bau]] e [[Madame Ming]] (mencionados)
+- **NPCs em Destaque:** [[Lordia]] (Rainha de Belvária), Thalen Morvai ([[Thalros]] / 'Tál'), [[Conselheiro Cassian]] (Gerente da Casa da Moeda), Eloísa (Secretária da Casa da Moeda), Avaliador-Chefe da Casa da Moeda, Taverneiro Anão do Javali de Ouro, Informante da Calçada / Mendigo de Belvária, A Amiga Drow ([[A Drow de Armadura Negra]] / mencionada sob a senha da Donzela da Tempestade), [[Bau]] e [[Ming]] (mencionados)
 - **Locais Visitados:** [[Belvária]] (A Cidade dos Espelhos e das Rosas), Taverna do Javali de Ouro, Pátio das Fontes e Escadarias de Mármore, Casa da Moeda de Belvária (Banco Central), Palácio das Rosas
 - **Organizações / Entidades:** Reino de [[Belvária]], [[Ordem das Perspectivas]], [[Conselho das Cinzas]], Submundo de Belvária, [[Companhia das Rosas Negras]] (mencionada)
 
