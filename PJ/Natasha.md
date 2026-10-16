@@ -58,9 +58,12 @@ Uma lâmina nas sombras.
 ---
 
 ### **Equipamentos e Inventário Destacado**
-- **Rapieira +2 (*Rapier +2*):** Arma principal adquirida no mercado de armas de Raphlue (Sessão 10) por 2.587 PO (paga com 200 PP + 587 PO após desconto negociado com o ferreiro Mauro).
-- **Vestido Vermelho de Gala:** Traje nobre de alta costura presenteado por [[Zahari Del Gato]] para a viagem e audiências diplomáticas.
-- **Poção de Cura Maior (*Potion of Greater Healing*):** Recupera $4d4 + 4$ PV (obtida no templo da Ordem das Perspectivas de Morvai).
+- **Rapieira +2 (*Rapier +2*):** Arma principal adquirida no mercado de armas de Raphlue ([[Sessão 10 - Crônicas de Aethel]]) por 2.587 PO (paga com 200 PP + 587 PO após desconto negociado com o ferreiro Mauro).
+- **Vestido Vermelho de Gala & Traje Impermeável Real:** Traje nobre presenteado por [[Zahari Del Gato]] e vestido de gala confeccionado sob medida pelo Alfaiate Real de [[Belvária]] com tecido especial que repele manchas de sangue e líquidos ([[Sessão 12 - Crônicas de Aethel]]).
+- **Poção de Cura Maior (*Potion of Greater Healing*):** Recupera $4d4 + 4$ PV.
+- **Espólios da Mansão de Cassian ([[Sessão 12 - Crônicas de Aethel]]):**
+  - **500 Peças de Platina (PP)** (5.000 PO) da divisão das arcas reais desviadas pelo [[Conselheiro Cassian]].
+  - **Joias, Cartas de Crédito (4x 800 PP), Livro-Razão Secreto e Pertences de Morvai:** Confiscados após o massacre e interrogatório de Thalen Morvai, onde Natasha descobriu a verdade sobre a alma dividida d'[[A Drow de Armadura Negra]] e seu refúgio na estufa de vidro da mansão.
 
 ---
 

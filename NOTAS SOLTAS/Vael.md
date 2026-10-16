@@ -15,4 +15,17 @@ Ele é excelente para, cortes nobres, falsas igrejas, cultos infiltrados, disput
 **Frase de culto:**  
 “A verdade é apenas a mentira que venceu primeiro.”
 ![[Pasted image 20260601034514.png]]
+
+---
+
+### Manifestação em Belvária: O Pianista Indiferente ([[Sessão 12 - Crônicas de Aethel]])
+Na [[Sessão 12 - Crônicas de Aethel]], Vael manifestou-se fisicamente no Plano Material sob o disfarce do misterioso e indiferente pianista contratado para tocar no banquete privativo da mansão do [[Conselheiro Cassian]], em [[Belvária]].
+- Antes da chegada do grupo, dividiu o palco com a barda [[Rowan]] e demonstrou calma absoluta quando o combate irrompeu, continuando a dedilhar o piano enquanto seu próprio sumo sacerdote, Thalen Morvai ([[Thalros]]), tinha a traqueia esmagada e os dedos decepados a poucos metros de distância.
+- Recebeu **1 Peça de Platina** de gorjeta de [[Zahari Del Gato]] e permaneceu observando de camarote toda a operação dos heróis e a chegada da Guarda Real da Rainha [[Lordia]].
+- Ao final da noite, caminhou tranquilamente até a mesa, pegou uma maçã e revelou sua verdadeira identidade divina ao grupo:
+  - Provocou [[Vaelyra Noctharis]] sobre seu dom e sobre sua aversão às mentiras.
+  - Advertiu [[Rowan]] sobre o perigo de seus novos companheiros (*"eles são egoístas e cada um tem objetivos muito bem definidos"*).
+  - Zombou da busca dos aventureiros pelos artefatos sagrados (*"O número de artefatos de vocês continua em zero"*).
+  - Declarou-se apenas *"um tecelão de novas histórias"* antes de desaparecer no ar diante de todos.
+
 #deuses

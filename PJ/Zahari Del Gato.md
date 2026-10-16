@@ -52,7 +52,15 @@ Tasha também ensinou os ofícios da guilda pra Zahari quando criança sendo qua
 
 [[Zahari fala com um sotaque francês]]
 
+---
+
+### Feitos Recentes & Inventário Destacado
+- **Ataque Furtivo Crítico e a Gorjeta para [[Vael]] ([[Sessão 12 - Crônicas de Aethel]]):** Infiltrado sob invisibilidade no lustre do salão do [[Conselheiro Cassian]], Zahari desferiu um Ataque Furtivo crítico devastador de dano psíquico que abriu caminho para a derrota fulminante de Thalen Morvai em menos de duas rodadas. Após a rendição dos cultistas, deu **1 Peça de Platina** de gorjeta ao "Pianista Indiferente" do salão — sem saber que estava gorjeteando o próprio deus da mentira, **[[Vael]]**.
+- **Espólios & Vestimentas:**
+  - *Traje de Gala Impermeável* confeccionado pelo Alfaiate Real de [[Belvária]] (com espaço sob medida para a cauda).
+  - **500 Peças de Platina (PP)** (5.000 PO) da divisão das três arcas da Casa da Moeda apreendidas na [[Sessão 12 - Crônicas de Aethel]].
+
 Classe: [[Ladino]]
 Raça: [[Tabaxi]]
 
-#personagem
+#personagem

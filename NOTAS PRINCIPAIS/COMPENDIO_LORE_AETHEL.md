@@ -104,22 +104,24 @@ Três divindades primordiais cujos cultos foram obscurecidos pelo tempo, mas cuj
 
 ## 5. ORGANIZAÇÕES E FAÇÕES
 
-1. **[[Conselho das Cinzas]]**: A conspiração e força antagônica suprema de Aethel. Dividida rigorosamente entre o **Alto Conselho** (os 5 mais fortes: O Anão de Barba Branca, A Drow de Armadura Negra, O Campeão Orc, O Segundo Gêmeo, O Primeiro Gêmeo) e o **Baixo Conselho** (os 5 menos fortes: [[Morice]], [[Gul'shar]], [[Utrisis]], [[Eubáfio]], [[Flash]]), operando uma rede continental de corrupção, leilões ilícitos e controle geopolítico.
-2. **[[Ordem das Perspectivas]]**: Seita sediada em Raphlue que prega que a iluminação reside em múltiplas visões, mas cujo templo secreto cultua uma estátua corrompida e é conduzido pelo clérigo austero **Thalen Morvai** ([[Thalros]]).
-3. **[[Ordem dos Sem-Face]]**: Organização neutra que compreende a "Verdade" como algo prismático e multifacetado, responsável pela criação e criação de changelings como [[Nyxen]].
+1. **[[Conselho das Cinzas]]**: A conspiração e força antagônica suprema de Aethel. Dividida rigorosamente entre o **Alto Conselho** (os 5 mais fortes: O Anão de Barba Branca, A Drow de Armadura Negra, O Campeão Orc, O Segundo Gêmeo, O Primeiro Gêmeo — cujos dois líderes de topo detêm o poder quase divino de dividir a própria alma) e o **Baixo Conselho** (os 5 menos fortes: [[Morice]], [[Gul'shar]], [[Utrisis]], [[Eubáfio]], [[Flash]]), operando uma rede continental de corrupção, leilões ilícitos e controle geopolítico.
+2. **[[Ordem das Perspectivas]]**: Seita sediada em Raphlue que prega que a iluminação reside em múltiplas visões sob as bênçãos de [[Vael]], mas cujo templo secreto foi destruído pelos heróis na [[Sessão 10 - Crônicas de Aethel]] e cujo líder, **Thalen Morvai** ([[Thalros]]), foi derrotado, mutilado e preso em [[Belvária]] na [[Sessão 12 - Crônicas de Aethel]].
+3. **[[Ordem dos Sem-Face]]**: Organização neutra que compreende a "Verdade" como algo prismático e multifacetado, responsável pela criação e treinamento de changelings como [[Nyxen]].
 4. **[[Gatunos do Mar]]**: Linhagem de marinheiros e piratas tabaxi (da qual o Capitão [[Zahari Del Gato]] é herdeiro), com tradição de navegação e acordos com os baixos-fundos.
-5. **[[Companhia da Rosa Negra]]**: Guilda antiga de assassinos e agentes secretos que mantêm rotas e portos sob vigilância silenciosa.
+5. **[[Companhia das Rosas Negras]]**: Guilda antiga de assassinos e agentes secretos que mantêm rotas e portos sob vigilância silenciosa.
 6. **[[Círculo da Sombra Sorridente]]**, **[[Os Droogs]]**, **[[Vanguarda]]**, **[[Kharag-Thûl]]**.
 
 ---
 
 ## 6. PROTAGONISTAS DE CRÔNICAS DE AETHEL (GRUPO 01)
 
-- **[[Natasha]] ("Tasha")**: Bruxa e Ladina ligada à *Torre de Ninguém* e à *Donzela da Tempestade*. Tem profunda conexão com o *Véu*, ouvindo as vozes e resquícios dos mortos.
-- **[[Ilyan Varek]]**: Humano Monge e pugilista de *Kharvald* (Solsis), treinado na *Ordem dos Punhos de Gelo*. Carrega em seu espírito a centelha de uma vontade ancestral que ressoa com os Deuses Esquecidos.
-- **[[Zahari Del Gato]]**: Pirata tabaxi com sotaque francês (*Mon chéri* / *Ma chérie*), capitão do navio cargueiro *Del Gato*, membro da linhagem dos *Gatunos do Mar*.
-- **[[Nyxen]]**: Changeling e Feiticeiro da Mente Aberrante (*Aberrant Mind*), treinado pela *Ordem dos Sem-Face*. Portador do misterioso pingente divino e acompanhado pelo espírito ancestral felino [[Pack]].
+- **[[Natasha]] ("Tasha")**: Ladina Dhampir ligada à *Torre de Ninguém*, conhecida como *Donzela da Tempestade* e Mão da *Companhia das Rosas Negras*. Tem profunda conexão com o *Véu*, ouvindo as vozes e resquícios dos mortos.
+- **[[Ilyan Varek]]**: Humano Pugilista de *Kharvald* (Solsis), treinado nos ensinamentos d'[[O Caminho]]. Carrega em seu espírito a centelha de uma vontade ancestral que ressoa com os Deuses Esquecidos.
+- **[[Zahari Del Gato]]**: Pirata tabaxi com sotaque francês (*Mon chéri* / *Ma chérie*), capitão do navio *[[Presa da Fortuna]]*, membro da linhagem dos *Gatunos do Mar*.
+- **[[Nyxen]]**: Changeling e Feiticeiro da Mente Aberrante (*Aberrant Mind*), treinado pela *Ordem dos Sem-Face*. Portador do [[Pingente da Verdade]] e acompanhado pelo espírito ancestral felino [[Pack]].
 - **[[Lorelay Linma]]**: Jovem maga humana e nobre herdeira de Gold City (família Linma / von Hoften), curiosa, engenhosa e afeita a desvendar arcanismos proibidos.
 - **[[Shuro Izagi]]**: Guerreiro veterano de WoolRed, ex-membro do pelotão suicida *Força Fantasma*, guiado pela busca por honra e ajuste de contas militares.
-- **[[Vaelyra Noctharis]]**: Ladina elfa nascida nas sombras de Gold City, espiã a serviço da entidade enigmática **Syntrakar**, acompanhada por seu pseudodragão **[[Vesper]]**.
-- **[[Zaran]]**: Elfo combatente e furtivo que une forças com a tripulação a partir da caçada na Taverna do Urso e no pântano de Virtus.
+- **[[Vaelyra Noctharis]]**: Bruxa Shadar-Kai nascida nas sombras de Gold City e formada em Deorum, ligada por pacto à entidade enigmática **[[Sythrakar]]** e acompanhada por seu pseudodragão **[[Vesper]]**.
+- **[[Zaran]]**: Elfo druida que une forças com a tripulação durante a passagem por Raphlue.
+- **[[Rowan]] ("Rovan")**: Carismática e sagaz barda Tiefling recrutada na Taverna do Javali de Ouro em [[Belvária]] ([[Sessão 11 - Crônicas de Aethel]]).
+

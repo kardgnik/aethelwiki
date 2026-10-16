@@ -30,7 +30,17 @@ E, enquanto houver corrupção no mundo — seja ela sobrenatural, moral ou inte
 
 Conexão com [[Yasuri]] devido a compatibilidade de classe e raça.
 
+---
+
+### Feitos em Campanha & Equipamentos Destacados
+- **O Golpe Quebra-Traqueia em Thalen Morvai ([[Sessão 12 - Crônicas de Aethel]]):** Durante a emboscada na mansão do [[Conselheiro Cassian]], Ilyan desceu as escadarias e desferiu o golpe marcial decisivo que nocauteou Thalen Morvai ([[Thalros]]), esmagando a traqueia do patriarca da [[Ordem das Perspectivas]] e deixando-o permanentemente incapaz de ingerir alimentos sólidos ou líquidos por vias normais.
+- **O Rastro do Monge do Caminho em [[Solsis]]:** Durante o interrogatório de Morvai na [[Sessão 12 - Crônicas de Aethel]], descobriu que a seita localizou o rastro do **Monge do Caminho** (ligado a [[Yasuri]] / [[Stecs]] e ao acesso à [[Biblioteca Sagrada]]) no topo da montanha mais alta de sua terra natal, [[Solsis]].
+- **Equipamentos & Riqueza:**
+  - *Jaqueta de Pugilista +1* e *Véu da Mente Fraturada* (adquiridos em [[Raphlue]] na [[Sessão 10 - Crônicas de Aethel]]).
+  - *Traje de Gala Impermeável* (confeccionado pelo Alfaiate Real de [[Belvária]]).
+  - **500 Peças de Platina (PP)** (5.000 PO) recebidas na divisão das três arcas da Casa da Moeda apreendidas na [[Sessão 12 - Crônicas de Aethel]].
+
 Classe: [[Pugilista]]
 Raça: [[Humano]]
 
-#personagem
+#personagem

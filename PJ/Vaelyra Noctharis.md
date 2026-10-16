@@ -208,10 +208,14 @@ Talvez essa seja a primeira convicção verdadeiramente minha.
 
 ![[Vaelyra Noctharis.png]]
 
+---
+
+### Equipamentos e Espólios Recentes ([[Sessão 12 - Crônicas de Aethel]])
+- **500 Peças de Platina (PP)** (5.000 PO) recebidas na divisão das três arcas da Casa da Moeda apreendidas na mansão do [[Conselheiro Cassian]].
+- **4 Garrafas de Vinho Élfico da Reserva de Silvandell (Safra 1420):** Vinho raríssimo de 300 anos de maturação descoberto por Vaelyra em uma adega oculta atrás de um quadro torto no escritório de Cassian.
+- **Traje de Gala Impermeável:** Confeccionado sob medida pelo Alfaiate Real de [[Belvária]] com tecido encantado que repele manchas de sangue e vinho.
+
 Raça: [[Shadar-Kai]]
 Classe: [[Bruxo]]
 
 #personagem
-
-
-

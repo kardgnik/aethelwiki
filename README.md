@@ -98,12 +98,12 @@ Dados computados do estado do repositório:
 
 | Métrica | Valor |
 | :--- | :--- |
-| **Total de Arquivos Markdown (.md)** | 201 |
+| **Total de Arquivos Markdown (.md)** | 207 |
 | **Arquivos na Raiz** | 2 (`Aethel.md`, `README.md`) |
 | **Arquivos em `NOTAS PRINCIPAIS/`** | 22 |
-| **Arquivos em `NOTAS SOLTAS/`** | 159 |
-| **Arquivos em `PJ/`** | 9 |
-| **Arquivos em `SESSOES/CRONICAS/`** | 9 |
+| **Arquivos em `NOTAS SOLTAS/`** | 161 |
+| **Arquivos em `PJ/`** | 10 |
+| **Arquivos em `SESSOES/CRONICAS/`** | 12 |
 | **Assets de Mídia (`IMAGENS/`)** | 77 arquivos (PNG, JPG, JPEG) |
 | **Volume Total de Dados** | ~273 MB |
 | **Tags Únicas Mapeadas** | 28 |

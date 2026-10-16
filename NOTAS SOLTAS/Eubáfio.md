@@ -11,4 +11,7 @@
 
 ## Participação e Indícios
 - Citado na [[Sessão 01 - Crônicas de Aethel|Sessão 01]] e [[Sessão 06 - Crônicas de Aethel|Sessão 06]] como mandante de esquemas envolvendo mercenários, leilões sombrios e sabotagens territoriais.
-- Na [[Sessão 07 - Crônicas de Aethel|Sessão 07]], o grupo recebe alertas diretos alertando que Eubáfio é uma das figuras mais perigosas e ardilosas do cenário político.
+- Na [[Sessão 07 - Crônicas de Aethel|Sessão 07]], o grupo recebe alertas diretos apontando que Eubáfio é uma das figuras mais perigosas e ardilosas do cenário político.
+- Na [[Sessão 10 - Crônicas de Aethel|Sessão 10]], livros contábeis apreendidos no templo subterrâneo de [[Raphlue]] comprovam que Eubáfio financiava a [[Ordem das Perspectivas]] de Thalen Morvai.
+- Na [[Sessão 12 - Crônicas de Aethel|Sessão 12]], os heróis apreendem nos bolsos de Thalen Morvai em [[Belvária]] uma **carta lacrada com o selo `EJ` (Eubáfio Jurasangue)** exigindo a remessa de **3.000 Peças de Platina** desviadas pelo [[Conselheiro Cassian]] e ordenando que [[A Drow de Armadura Negra]] fosse mantida oculta sob o domo de vidro da estufa até sua febre passar. Sob tortura, Morvai confirma que Eubáfio é o único membro do Conselho cujo paradeiro ele conhece, operando permanentemente entrincheirado no banco central de **[[Gold City]]**.
+
